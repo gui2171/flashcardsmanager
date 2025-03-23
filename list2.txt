@@ -1,0 +1,1522 @@
+Grimasse -- careta, grimace (Er verzog das Gesicht zu einer Grimasse.)
+abhackt -- cortada, hack off (Er hackt das Holz.)
+Samtvorhänge -- cortinas de veludo, velvet curtains (Die Samtvorhänge hingen schwer im Raum.)
+besudeln -- manchar, to soil (Er besudelte sein Hemd mit Farbe.)
+elende -- miseravel, miserable (Das war ein elender Tag.)
+Eintopf -- cozido, stew (Heute gibt es Eintopf zum Mittagessen.)
+Eisenkrug -- caneca de ferro, iron mug (Er trank aus einem Eisenkrug.)
+Verantwortungsgefühl -- senso de responsabilidade, sense of responsibility (Er hat ein starkes Verantwortungsgefühl.)
+gähnend -- bocejar, yawning (Er saß gähnend im Meeting.)
+machte Anstalten -- preparou, to make preparations (Er machte Anstalten zu gehen.)
+Er hat sie vermasselt -- Ele estragou tudo, He screwed it up (Er hat sie vermasselt im Finale.)
+bezeugen -- testemunhar, to testify (Sie können seine Aussage bezeugen.)
+vorhat -- planejar, to plan (Was hat er vor?)
+beharrt -- insistir, to persist (Er beharrt auf seiner Meinung.)
+aufzumachen -- abrir, to open (Er hat die Tür aufzumachen.)
+berichtet -- relatar, to report (Die Zeitung berichtet über den Vorfall.)
+eingesperrter -- preso, imprisoned (Er ist ein eingesperrter Verbrecher)
+Absichten -- intenções, intentions (Seine Absichten sind nicht klar.)
+heimlich -- secretamente, secretly (Er beobachtete sie heimlich.)
+fürnehme -- nobre, noble (Sie hat eine fürnehme Haltung.)
+klammes Bett -- cama fria e úmida, cold and damp bed (Das war ein klammes Bett.)
+verriegelte -- trancado, locked (Die Tür war verriegelt)
+Wirksameres -- mais eficaz, more effective (Es gibt kein Wirksameres Mittel)
+Genuss -- prazer, enjoyment (Er hat den Genuss des Essens sehr genossen.)
+Tuch -- pano, cloth (Er putzte die Brille mit einem Tuch.)
+abgelöst -- substituido, replaced (Die alte Lampe wurde durch eine neue abgelöst.)
+sprühen -- borrifar, to spray (Er sprühte die Blumen mit Wasser.)
+Versandhandel -- vendas por correspondência, mail order business (Er hat einen Versandhandel.)
+vollgestopft -- abarrotado, stuffed (Der Koffer war vollgestopft.)
+Inschriften -- inscrições, inscriptions (Die Inschriften waren schwer zu lesen.)
+bedrohlich -- ameaçador, threatening (Seine Stimme klang sehr bedrohlich.)
+Aufbewahren -- armazenar, to store (Du musst das Geld gut aufbewahren.)
+überflüssig -- desnecessário, unnecessary (Das ist eine überflüssige Frage.)
+DIEBESGUT! -- produtos roubados, stolen goods (Das Diebesgut war im Schrank versteckt.)
+Leib -- corpo, body (Er bewegte seinen Leib.)
+unablässig -- constante, constant (Er arbeitet unablässig.)
+Verräter -- traidor, traitor (Er ist ein Verräter seines Landes.)
+Abneigung -- aversão, aversion (Er hat eine Abneigung gegen lange Meetings.)
+schmuggelst -- contrabando, smuggling (Sie schmuggeln die Ware)
+tüchtiges -- muito, efficient (Er ist ein tüchtiges Arbeiter)
+beschränkt -- reduzida, limited (Sein Horizont ist beschränkt)
+entronnen -- escapado, escaped (Er ist dem Tod entronnen)
+unaufspürbar -- indetectável, untraceable (Es war unaufspürbar)
+Lendenschurz -- tanga, loincloth (Er trug ein Lendenschurz)
+Speisesaal -- refeitório, dining hall (Das Essen wurde im Speisesaal serviert.)
+verließ eilends die Stätte -- saiu imediatamente do local, to leave quickly (Er verließ eilends die Stätte)
+denkwürdigen -- memorável, memorable (Das war ein denkwürdiger Tag)
+erwürgen -- estrangular, to strangle (Er versuchte ihn zu erwürgen.)
+bändigen -- controlar, to control (Er versucht das Tier zu bändigen.)
+prachtvollen -- magnifico, splendid (Das war eine prachtvollen Hochzeit)
+Brunnen -- fonte, fountain (Sie saßen am Brunnen.)
+EINNAHMEN -- receitas, revenues (Die Firma hat hohe Einnahmen.)
+Rute -- vara, rod (Er benutzte eine Rute beim Fischen.)
+Aufschrift -- inscrição, inscription (Die Aufschrift war auf dem Schild.)
+lässig -- casualmente, casually (Er war lässig gekleidet.)
+äußerst -- extremamente, extremely (Er war äußerst müde.)
+Zelle -- cela, cell (Der Gefangene saß in der Zelle.)
+Bericht -- relatório, report (Er schrieb einen ausführlichen Bericht.)
+zerlegten -- desmontado, disassembled (Er zerlegten den Apparat)
+unverzüglich -- imediatamente, immediately (Sie müssen die Rechnung unverzüglich bezahlen.)
+Nachforschungen -- investigação, inquiries (Die Polizei stellte Nachforschungen an.)
+Spülung -- descarga, flush (Die Spülung funktioniert nicht.)
+Klempner -- encanador, plumber (Wir brauchen einen Klempner.)
+Dringende -- urgente, urgent (Es ist dringende.)
+Kerker -- masmorra, dungeon (Er war im Kerker eingesperrt.)
+behutsam -- cautelosamente, carefully (Er ging behutsam vor.)
+Botschaft -- mensagem, message (Er brachte eine wichtige Botschaft.)
+Anklage -- acusação, indictment (Die Anklage war unberechtigt.)
+Gegenwart -- presença, presence (In meiner Gegenwart benehmen sie sich.)
+Hirsch -- veado, deer (Er sah einen Hirsch im Wald.)
+Bürgerin -- cidadã, citizen (Sie ist eine engagierte Bürgerin.)
+Einzelheiten -- detalhes, details (Er erklärte alle Einzelheiten des Plans.)
+Eckladen -- loja de esquina, corner shop (Der Eckladen ist immer geöffnet.)
+Katzenfutter -- ração de gato, cat food (Wir müssen Katzenfutter kaufen.)
+Zeugin -- testemunha, witness (Sie war eine wichtige Zeugin im Prozess.)
+zufällig -- acidentalmente, by chance (Sie trafen sich zufällig in der Stadt.)
+Auffassung -- opinião, opinion (Seine Auffassung ist anders als meine.)
+Genehmigung -- autorização, authorization (Sie haben die Genehmigung erhalten.)
+lediglich -- somente, only (Ich wollte lediglich helfen.)
+Gespinste -- material, spinning (Die Spinnen haben die Gespinste gesponnen.)
+eklatanten -- flagrante, blatant (Das war ein eklatanter Fehler.)
+Missbrauch -- abuso, abuse (Es gab einen Missbrauch des Systems.)
+unabsichtlich -- não intencional, unintentional (Das war ein unabsichtlicher Fehler.)
+Flüstern -- sussurrar, to whisper (Sie flüsterten einander Geheimnisse zu.)
+sputen -- apressar-se, to hurry (Du musst dich sputen, sonst verpassen wir den Zug.)
+Wehklage -- lamento, lament (Die Wehklage war in der ganzen Stadt zu hören.)
+Entkommen -- escapar, to escape (Er versuchte zu entkommen.)
+Nachgiebigkeit -- indulgência, indulgence (Seine Nachgiebigkeit wurde ausgenutzt.)
+Gefälligkeiten -- favores, favors (Er tat ihr viele Gefälligkeiten.)
+empfängt -- receber, to receive (Sie empfängt den Besuch im Wohnzimmer.)
+Trost -- conforto, consolation (Er fand Trost in der Musik.)
+Schimmel -- mofo, mold (Der Schimmel war überall im Badezimmer.)
+Hörweite -- alcance da audição, hearing range (Außerhalb ihrer Hörweite tat er, was er wollte.)
+flüsternd -- sussurrando, whispering (Sie sprach flüsternd zu ihm.)
+vernichtenden -- devastadora, destructive (Es gab eine vernichtenden Kritik.)
+hohmütig -- arrogante, arrogant (Sein hochmütiges Verhalten gefiel uns nicht.)
+Habseligkeiten -- pertences, belongings (Sie packten ihre Habseligkeiten.)
+vergnüglicher -- divertida, amusing (Das war eine vergnüglicher Party)
+Neigung -- inclinação, inclination (Sie hat eine Neigung zur Musik.)
+vermied -- evitar, avoided (Er vermied den Kontakt mit den anderen.)
+albern -- bobo, foolish (Er hat sich albern benommen.)
+spritzten -- pulverizar, to spray (Das Wasser spritzten nach oben.)
+Jauche -- esterco, manure (Der Bauer benutzte Jauche zum Düngen.)
+Fahndung -- busca, manhunt (Die Fahndung nach dem Täter läuft noch.)
+Wächtern -- guardas, guards (Die Wächtern bewachten das Haus.)
+versperren -- bloquear, to block (Der Baum versperrte den Weg.)
+erkältet -- resfriado, to catch a cold (Er war erkältet und konnte nicht arbeiten.)
+unverkennbar -- inconfundível, unmistakable (Sein Akzent war unverkennbar.)
+Grobheit -- rudeza, rudeness (Seine Grobheit war unerträglich.)
+Widerwillig -- relutantemente, reluctantly (Er tat es widerwillig.)
+Auftrag -- tarefas, task (Sie haben mir einen Auftrag gegeben)
+hellsten Kopfes -- mente brilhante, clear minded (Du musst hellsten Kopfes sein)
+abgeschweift -- divagou, diverted (Sein Blick ist abgeschweift)
+Anstalten -- preparativos, preparation (Sie machte Anstalten zu gehen.)
+pflegen freundschaftliche Bande -- cultivar laços de amizade, cultivate friendships (Sie pflegen freundschaftliche Bande.)
+entrüstet -- indignado, indignant (Er war entrüstet über die Behauptung.)
+Randale -- motim, riot (Es gab Randale in der Stadt.)
+Offenheit -- sinceridade, frankness (Ihre Offenheit hat mich überrascht)
+aufschlussreiche -- informativo, informative (Das ist ein aufschlussreiches Buch.)
+Ringsum -- ao redor, around (Sie sahen sich ringsum)
+Brett -- placa, board (Das Brett ist aus Holz.)
+wissbegierig -- curioso, curious (Er ist sehr wissbegierig und lernt schnell.)
+angriffslustig -- agressivo, aggressive (Er war sehr angriffslustig.)
+Kokolores -- lixo, nonsense (Erzähl mir keinen Kokolores.)
+verstauen -- guardar, to pack (Sie verstauten die Koffer im Auto.)
+imstande -- capaz, capable (Ich bin nicht imstande, das zu tun.)
+rumzuhacken -- implicar, to pick on (Er hört nicht auf, auf mir rumzuhacken.)
+Abwesenheit -- ausência, absence (In ihrer Abwesenheit übernahmen wir die Aufgaben.)
+Niesel -- garoa, drizzle (Es gab einen leichten Nieselregen.)
+bewerben -- aplicar para, to apply (Ich habe mich für den Job beworben.)
+belämmert -- miserável, miserable (Er sah belämmert aus)
+Annehmbar -- razoável, acceptable (Das Ergebnis ist annehmbar.)
+Anstrengungen -- esforços, effort (Seine Anstrengungen haben sich gelohnt.)
+Friedens -- paz, peace (Es herrschte ein langer Friedens zwischen den Ländern.)
+auslösen -- desencadear, to trigger (Das Geräusch löste einen Alarm aus.)
+Tafel -- mesa, table (Sie saßen an der Tafel.)
+stopfte -- entupir, to stuff (Er stopfte den Koffer voll.)
+befriedigte -- satisfazer, satisfied (Sie befriedigte ihre Bedürfnisse.)
+ausrichten -- dizer, to say (Soll ich etwas ausrichten?)
+bruchstückhaft -- fragmentado, fragmentary (Die Informationen waren bruchstückhaft.)
+Auskunft -- informação, information (Sie holte Auskunft über die Reise ein.)
+einsetzt -- usar, use (Wie man es einsetzt)
+gebrauchen -- usar, to use (Er kann das Werkzeug gebrauchen.)
+Halbblütern -- mestiço, half-blood (Sie nannte ihm ein Halbblütern)
+abweisend -- frio, cold (Sie war abweisend und distanziert.)
+mickrig -- insignificante, meagre (Das war eine mickrige Bezahlung.)
+Befugnis -- autoridade, authority (Sie hat die Befugnis das zu entscheiden.)
+Geflüster -- sussurrando, whispering (Das Geflüster der Menge war zu hören.)
+Klemmbrettern -- pranchetas, clipboards (Sie haben die Dokumenten auf Klemmbrettern)
+wollene -- de lã, wool (Sie trug einen wollenen Schal)
+Geisteszustand -- estado de espirito, state of mind (Sein Geisteszustand war sehr schlecht.)
+Stricken -- tricô, knit (Sie strickte einen Pullover)
+Vorliebe -- preferência, preference (Er hat eine Vorliebe für klassische Musik.)
+Stille -- silêncio, silence (Es herrschte eine tiefe Stille.)
+vornehmlich -- principalmente, primarily (Er liest vornehmlich Krimis.)
+Abneigungen -- aversões, aversions (Er hat viele Abneigungen.)
+Anmaßung -- presunção, presumption (Seine Anmaßung war unerträglich.)
+hervorgerufen -- causado, caused (Das hat große Probleme hervorgerufen.)
+gefoltert -- torturado, tortured (Er wurde gefoltert und zum Geständnis gezwungen.)
+entmutigend -- desanimador, discouraging (Das Ergebnis war sehr entmutigend.)
+Eifer -- zelo, zeal (Sie ging mit großem Eifer an die Arbeit.)
+wählerisch -- exigente, picky (Er ist sehr wählerisch beim Essen.)
+Unannehmlichkeiten -- inconvenientes, inconveniences (Es gab einige Unannehmlichkeiten während der Reise.)
+verfehlen -- errar, to miss (Er hat das Ziel verfehlt.)
+geschweige -- nem falar, let alone (Er kann nicht mal Deutsch, geschweige Chinesisch.)
+verstummen -- calar, to fall silent (Er verstummte, als er sie sah.)
+vergeblich -- em vão, in vain (Sie hat es vergeblich versucht.)
+unaufhörlich -- incessante, incessant (Der Regen fiel unaufhörlich.)
+Vorwand -- pretexto, pretext (Er suchte einen Vorwand, um zu gehen.)
+Unverschämtheit -- descaramento, impudence (Seine Unverschämtheit war schockierend.)
+Auseinandersetzung -- discussão, argument (Es gab eine heftige Auseinandersetzung.)
+Ermahnung -- repreensão, warning (Er erhielt eine Ermahnung von seinem Chef.)
+verbergen -- esconder, to hide (Sie versuchte ihre Gefühle zu verbergen.)
+Vorkommnisse -- acontecimentos, incident (Es gab keine ungewöhnlichen Vorkommnisse.)
+ausnahmsweise -- excepcionalmente, exceptionally (Ich mache es ausnahmsweise für dich.)
+entbehren -- dispensar, to do without (Sie konnte es nicht entbehren.)
+zusammenzusetzen -- montar, to assemble (Er musste das Möbelstück selbst zusammenzusetzen.)
+Verlegenheit -- embaraço, embarrassment (Ihre Verlegenheit war spürbar.)
+geradezu -- diretamente, directly (Er sagte es geradezu.)
+Anspielung -- alusão, allusion (Das war eine Anspielung.)
+einbekennen -- confessar, to confess (Er hat sich zu seiner Schuld einbekannt.)
+abermals -- novamente, again (Er hat es abermals versucht.)
+verhassten -- odiado, hated (Das war ein verhasstes Kleid)
+vermeintlichen -- suposto, supposed (Er hat sich mit seinen vermeintlichen Freunden getroffen.)
+Unbill -- injustiça, injustice (Er musste viel Unbill ertragen.)
+belehren -- ensinar, to instruct (Er versuchte, mich zu belehren.)
+beschämend -- vergonhoso, shameful (Das war ein beschämender Vorfall.)
+geringschätzig -- depreciativo, disparaging (Er sprach geringschätzig über seine Kollegen.)
+Ehrfurcht -- reverência, awe (Er blickte mit Ehrfurcht zu ihr auf.)
+bewältigen -- superar, to overcome (Sie musste eine schwierige Aufgabe bewältigen.)
+Zweifel -- dúvida, doubt (Ich habe Zweifel an seiner Geschichte.)
+übereinstimmen -- concordar, to agree (Wir stimmen in diesem Punkt überein.)
+verraten -- trair, to betray (Er hat seine Freunde verraten.)
+herablassend -- condescendente, condescending (Er sprach herablassend zu ihr.)
+betrügerische -- fraudulento, fraudulent (Das war eine betrügerische Handlung.)
+Widerwillen -- repugnância, reluctance (Er tat es mit großem Widerwillen.)
+abgelehnt -- recusado, rejected (Er wurde abgelehnt)
+Aufrichtigkeit -- sinceridade, sincerity (Seine Aufrichtigkeit war beeindruckend.)
+Widerstand -- resistência, resistance (Der Widerstand war groß.)
+ausgesetzt -- exposto, exposed (Er war dem Risiko ausgesetzt)
+verabscheuungswürdige -- detestável, detestable (Das war eine verabscheuungswürdige Tat.)
+verübeln -- culpar, to blame (Er hat ihm nichts verübelt)
+gequält -- atormentado, tormented (Er wurde gequält)
+beschimpfte -- insultar, insulted (Sie beschimpfte ihn)
+unerträglich -- insuportável, unbearable (Die Hitze war unerträglich)
+zähneknirschend -- ranger os dentes, grinding teeth (Er sagte zähneknirschend ja)
+vorzugsweise -- preferencialmente, preferably (Er liest vorzugsweise Krimis)
+verächtlich -- desprezível, disdainful (Sie blickte verächtlich)
+Unbehagen -- desconforto, discomfort (Er fühlte ein Unbehagen)
+verhöhnen -- ridicularizar, to mock (Sie verhöhnten ihn)
+zögerte -- hesitou, hesitated (Er zögerte einen Moment)
+zuckte -- encolheu, twitched (Er zuckte mit der Schulter)
+Verachtung -- desprezo, contempt (Er zeigte seine Verachtung)
+erwiderte -- respondeu, replied (Er erwiderte die Frage)
+unfähig -- incapaz, incapable (Er war unfähig das zu tun)
+Einwand -- objeção, objection (Ich habe einen Einwand)
+bedrohen -- ameaçar, to threaten (Er bedrohte sie)
+zornig -- irritado, angry (Er war sehr zornig)
+Zustimmung -- aprovação, approval (Er brauchte ihre Zustimmung)
+Enttäuschung -- decepção, disappointment (Die Enttäuschung war groß)
+verärgert -- irritado, annoyed (Sie war verärgert)
+widerwärtig -- repugnante, disgusting (Das war widerwärtig)
+ausnutzen -- explorar, to exploit (Sie haben ihn ausgenutzt)
+bevorzugt -- preferido, preferred (Das ist sein bevorzugtes Gericht)
+Anschuldigung -- acusação, accusation (Die Anschuldigung war falsch)
+übel -- mal, evil (Das war ein übles Spiel)
+erbittert -- amargo, bitter (Er war erbittert)
+Begeisterung -- entusiasmo, enthusiasm (Sie zeigte große Begeisterung)
+verblüffend -- surpreendente, astonishing (Das war ein verblüffender Trick)
+Erschrecken -- assustar, to frighten (Er versuchte ihn zu erschrecken)
+überlegen -- superior, superior (Er fühlte sich überlegen)
+eifersüchtig -- ciumento, jealous (Er war eifersüchtig)
+Vergnügen -- prazer, pleasure (Das war ein großes Vergnügen)
+Entrüstung -- indignação, indignation (Ihre Entrüstung war deutlich)
+abwertend -- depreciativo, derogatory (Er sprach abwertend über sie)
+sorgfältig -- cuidadosamente, carefully (Er arbeitete sorgfältig)
+verlegen -- envergonhado, embarrassed (Sie war verlegen wegen des Kompliments)
+entsetzt -- horrorizado, horrified (Er war entsetzt über das Ergebnis)
+überrascht -- surpreso, surprised (Sie war überrascht)
+misstrauisch -- desconfiado, suspicious (Er war misstrauisch)
+unbequem -- desconfortável, uncomfortable (Das Sofa war unbequem)
+verzweifelt -- desesperado, desperate (Er war verzweifelt)
+überfordert -- sobrecarregado, overwhelmed (Er fühlte sich überfordert)
+gekränkt -- ofendido, offended (Er war gekränkt über die Worte)
+unzufrieden -- insatisfeito, dissatisfied (Sie war unzufrieden mit dem Ergebnis)
+ungläubig -- incrédulo, incredulous (Er war ungläubig über die Neuigkeiten)
+verwirrt -- confuso, confused (Er war sehr verwirrt)
+erleichtert -- aliviado, relieved (Sie war erleichtert)
+glücklich -- feliz, happy (Sie war sehr glücklich)
+zärtlich -- carinhoso, tender (Er war zärtlich mit ihr)
+mutig -- corajoso, brave (Er war ein mutiger Mann)
+zufrieden -- satisfeito, satisfied (Er war zufrieden mit dem Essen)
+schüchtern -- tímido, shy (Sie war sehr schüchtern)
+nervös -- nervoso, nervous (Sie war nervös)
+selbstbewusst -- autoconfiante, self-confident (Er war sehr selbstbewusst)
+geduldig -- paciente, patient (Sie war sehr geduldig)
+tolerant -- tolerante, tolerant (Er war sehr tolerant)
+ehrlich -- honesto, honest (Er war ehrlich)
+unehrlich -- desonesto, dishonest (Sie war unehrlich)
+großzügig -- generoso, generous (Er war großzügig)
+geizig -- mesquinho, stingy (Er war geizig)
+freundlich -- amigável, friendly (Sie war sehr freundlich)
+unfreundlich -- hostil, unfriendly (Er war sehr unfreundlich)
+witzig -- engraçado, witty (Er war sehr witzig)
+ernst -- sério, serious (Sie war sehr ernst)
+optimistisch -- otimista, optimistic (Er war optimistisch)
+unordentlich -- desorganizado, disorganized (Sie war unordentlich)
+verantwortungslos -- irresponsável, irresponsible (Sie war verantwortungslos)
+gewissenhaft -- consciencioso, conscientious (Er war sehr gewissenhaft)
+nachlässig -- negligente, negligent (Sie war nachlässig)
+sensibel -- sensível, sensitive (Er war sehr sensibel)
+direkt -- direto, direct (Er war sehr direkt)
+unangepasst -- desajustado, maladjusted (Sie war unangepasst)
+loyal -- leal, loyal (Er war sehr loyal)
+untreu -- infiel, unfaithful (Sie war untreu)
+unhilfsbereit -- inútil, unhelpful (Sie war unhilfsbereit)
+oberflächlich -- superficial, superficial (Sie war oberflächlich)
+bescheiden -- modesto, modest (Er war bescheiden)
+protzig -- exibido, showy (Sie war protzig)
+einfallsreich -- inventivo, inventive (Er war einfallsreich)
+unzuverlässig -- não confiável, unreliable (Sie war unzuverlässig)
+ungeduldig -- impaciente, impatient (Sie war ungeduldig)
+respektvoll -- respeitoso, respectful (Er war respektvoll)
+respektlos -- desrespeitoso, disrespectful (Sie war respektlos)
+vorsichtig -- cuidadoso, cautious (Er war vorsichtig)
+Mangel -- Falta (Der Mangel an Ressourcen führte zu Problemen. - A falta de recursos causou problemas.)
+trostlos -- Sombrio (Ein trostloser Anblick. - Uma visão sombria.)
+Bowler -- Chapeu coco (Er trug einen Bowler. - Ele usava um chapéu coco.)
+verhärmt -- Despreocupado (Sein verhärmtes Gesicht zeigte keine Freude. - Seu rosto despreocupado não mostrava alegria.)
+belästigen -- Chatear (Bitte belästigen Sie mich nicht! - Por favor, não me chateie!)
+zermürbenden -- Esgotante (Eine zermürbende Arbeit. - Um trabalho esgotante.)
+Anstrengung -- Esforço (Diese Aufgabe erfordert große Anstrengung. - Essa tarefa exige grande esforço.)
+beteiligt -- Envolvido (Er war an dem Projekt beteiligt. - Ele estava envolvido no projeto.)
+Strafverfolgung -- Processo criminal (Die Strafverfolgung wurde eingestellt. - O processo criminal foi encerrado.)
+Hinterhof -- Quintal (Die Kinder spielten im Hinterhof. - As crianças brincavam no quintal.)
+Ereignisse -- Acontecimentos (Die Ereignisse überschlugen sich. - Os acontecimentos se sucederam rapidamente.)
+erbeten -- Solicitada (Um Antwort wird erbeten. - Uma resposta é solicitada.)
+Muggelkloake -- Esgoto (Die Muggelkloake war voller Müll. - O esgoto estava cheio de lixo.) This seems to be a fantasy-specific term, keeping the original.
+Vorhang -- Cortina (Zieh den Vorhang zu! - Feche a cortina!)
+Ertrunkene -- Afogada (Die Ertrunkene wurde geborgen. - A afogada foi resgatada.)
+Augenlider -- Pálpebras (Sie schloss die Augenlider. - Ela fechou as pálpebras.)
+Ungeziefer -- Vermes (Das Haus war voller Ungeziefer. - A casa estava cheia de vermes.)
+ausweichend -- Evasivo (Er antwortete ausweichend. - Ele respondeu evasivamente.)
+begnadetsten -- Mais talentoso (Er ist einer der begnadetsten Künstler. - Ele é um dos artistas mais talentosos.)
+zuverlässigste -- Mais confiável (Er ist der zuverlässigste Mitarbeiter. - Ele é o funcionário mais confiável.)
+Halbwüchsigen -- Adolescente (Eine Gruppe Halbwüchsiger. - Um grupo de adolescentes.)
+Reue -- Remorso (Er zeigte keine Reue. - Ele não mostrou remorso.)
+Rache -- Vingança (Er schwor Rache. - Ele jurou vingança.)
+gelingen -- Ter sucesso (Es wird ihm gelingen. - Ele terá sucesso.)
+besiegeln -- Selar (Sie besiegelten den Vertrag. - Eles selaram o contrato.)
+AUSERWÄHLTE -- Escolhido (Der Auserwählte wird kommen. - O escolhido virá.)
+sagenumwobenen -- Lendária (Eine sagenumwobene Stadt. - Uma cidade lendária.)
+verhalten -- Comportar (Wie soll ich mich verhalten? - Como devo me comportar?)
+verweilen -- Demorar (Bitte verweilen Sie noch einen Moment. - Por favor, demore-se mais um momento.)
+erklecklichen -- Considerável (Er hat ein erkleckliches Vermögen. - Ele tem uma fortuna considerável.)
+gehorchen -- Obedecer (Du musst mir gehorchen! - Você tem que me obedecer!)
+summte -- Cantarolar (Sie summte ein Lied. - Ela cantarolava uma música.)
+Kriegerdenkmal -- Memorial (Das Kriegerdenkmal erinnert an die Gefallenen. - O memorial lembra os caídos na guerra.)
+Nötigung -- Coerção (Er wurde der Nötigung beschuldigt. - Ele foi acusado de coerção.)
+Folter -- Tortura (Die Folter war grausam. - A tortura foi cruel.)
+Weib -- Mulher (Dieses Weib ist unerträglich! - Essa mulher é insuportável! Note: "Weib" can be derogatory, depending on context.)
+Vorurteile -- Preconceitos (Wir müssen Vorurteile abbauen. - Nós precisamos combater os preconceitos.)
+anschließen -- Se ligar/Afiliar (Kann ich mich deinem WLAN anschließen? - Posso me conectar ao seu Wi-Fi?)
+aussichtslos -- Desesperançosa (Die Situation ist aussichtslos. - A situação é desesperançosa.)
+behaglich -- Conforto (Es war ein behaglicher Abend. - Foi uma noite confortável.)
+reizend -- Encantador (Sie ist eine reizende Frau. - Ela é uma mulher encantadora.)
+Bratensaft -- Molho (Gib mir mehr Bratensaft! - Me dê mais molho!)
+behergerichtet -- Preparado (Das Essen war schnell behergerichtet. - A comida foi preparada rapidamente.)
+Pappkartons -- Caixas de papelão (Wir brauchen Pappkartons für den Umzug. - Precisamos de caixas de papelão para a mudança.)
+Lagerraum -- Depósito (Der Lagerraum ist voll. - O depósito está cheio.)
+untertrieben -- Eufemismo (Das ist eine Untertreibung. - Isso é um eufemismo.)
+Von wegen -- Longe disso (Von wegen! Das stimmt doch gar nicht! - Longe disso! Isso não é verdade!)
+Versager! -- Perdedor! (Du bist ein Versager! - Você é um perdedor!)
+entgeistert -- Espantada (Sie sah ihn entgeistert an. - Ela olhou para ele espantada.)
+begehrtesten -- Procurado (Este é um dos produtos mais procurados. - Dies ist eines der begehrtesten Produkte.)
+Theke -- Balcão (Ich stehe am Balcão. - Ich stehe an der Theke.)
+hochwertigen -- Alta qualidade (O produto é de alta qualidade. - Das Produkt ist von hochwertiger Qualität.)
+Umsatz -- Rotatividade (A loja teve um grande faturamento este ano. - Das Geschäft hatte dieses Jahr einen großen Umsatz.)
+vernünftigen -- Razoável (Seja razoável! - Sei vernünftig!)
+knuddelig -- Digno de vergonha (Das Baby ist so knuddelig. - O bebê é tão digno de vergonha.) Note: "knuddelig" is generally positive, meaning "cuddly". If you intended a negative word, you might consider "peinlich" for "embarrassing"
+zankten -- Brigar (Elas estão sempre brigando. - Sie zankten immer.)
+Anschuldigungen -- Acusações (Há muitas acusações contra ele. - Es gibt viele Anschuldigungen gegen ihn.)
+rächen -- Vingar (Ich werde mich rächen! - Eu vou me vingar!)
+Brautjungfern -- Madrinhas (As madrinhas vestem o mesmo vestido. - Die Brautjungfern tragen das gleiche Kleid.)
+Absperrung -- Barreira (A polícia colocou uma barreira. - Die Polizei errichtete eine Absperrung.)
+bugsieren -- Manobrar (O barco foi manobrado para fora do porto. - Das Boot wurde aus dem Hafen bugsiert.)
+Belustigung -- Divertimento (Isso foi para divertimento de todos. - Das war zur Belustigung aller.)
+schamlos -- Desavergonhado (Ele é um desavergonhado! - Er ist schamlos!)
+Auflage -- Edição (Esta é a primeira edição do livro. - Dies ist die erste Auflage des Buches.)
+Enkel -- Neto (Eu tenho dois netos. - Ich habe zwei Enkel.)
+betraf -- Preocupado (A tempestade preocupou muitas pessoas. - Der Sturm betraf viele Menschen.)
+Auserwählten -- Escolhidos (Os escolhidos serão recompensados. - Die Auserwählten werden belohnt.)
+drahthaariger -- De cabelo duro (Ele tem um cachorro de cabelo duro. - Er hat einen drahthaarigen Hund.)
+Begabung -- Talento (Ela tem talento para a música. - Sie hat eine Begabung für Musik.)
+erfindet -- Inventar (Ele gosta de inventar coisas. - Er erfindet gerne Dinge.)
+gehässiger -- Rancoroso (Ele é um homem rancoroso. - Er ist ein gehässiger Mann.)
+verwegene -- Em questão (A questão é se devemos ir ou não. - Die verwegene Frage ist, ob wir gehen sollen oder nicht.)
+anspruchsvoll -- Exigente (Ele é um cliente exigente. - Er ist ein anspruchsvoller Kunde.)
+erbärmlich -- Lamentável (Que desempenho lamentável! - Was für eine erbärmliche Leistung!)
+Starre -- Rigidez (Sua Starre era assustadora. - Ihre Starre war beängstigend.)
+stocksteif stehen -- Ficou parado (Ele ficou parado, sem se mexer. - Er stand stocksteif da.)
+das Rollo -- Persiana (Desça as persianas! - Lass das Rollo herunter!)
+Tröstendes -- Reconfortante (Eu precisava de algo reconfortante. - Ich brauchte etwas Tröstendes.)
+Obhut -- Cuidado/Posse (Eu o deixei sob seus cuidados. - Ich habe ihn in deine Obhut gegeben.)
+Boshaftigkeit -- Maldade (Ela agiu por maldade. - Sie handelte aus Boshaftigkeit.)
+abfällige -- Depreciativo (Ele fez um comentário depreciativo. - Er machte eine abfällige Bemerkung.)
+sonderbar -- Estranho (Ele é um homem estranho. - Er ist ein sonderbarer Mann.)
+Schwindlerin -- Fraude (Ela é uma fraude! - Sie ist eine Schwindlerin!)
+Raunen -- Cochichar (Houve um cochichar na multidão. - Es ging ein Raunen durch die Menge.)
+Vorteil -- Vantagem (Qual é a vantagem disso? - Was ist der Vorteil davon?)
+Befestigungsanlagen -- Fortificação (As fortificações eram impressionantes. - Die Befestigungsanlagen waren beeindruckend.)
+abgewählt -- Desmarcada (Ela foi desmarcada do programa. - Sie wurde aus dem Programm abgewählt.)
+ausmalen -- Colorir (Eu gosto de colorir desenhos. - Ich male gerne Bilder aus.)
+Verteilung -- Distribuição (A distribuição de comida foi organizada. - Die Verteilung von Essen wurde organisiert.)
+Missfallen -- Desagrado (Ele expressou seu desagrado. - Er äußerte sein Missfallen.)
+verachtete -- Desprezar (Eu desprezo pessoas desonestas. - Ich verachte unehrliche Menschen.)
+vielgestaltig -- Polimórfico (A arte moderna é polimórfica. - Moderne Kunst ist vielgestaltig.)
+Merkblättern -- Folhetos (Por favor, leia os folhetos. - Bitte lesen Sie die Merkblätter.)
+töricht -- Tolo (Não seja tolo! - Sei nicht töricht!)
+schwärmerisch -- Apaixonada (Ela falou dele de maneira apaixonada. - Sie sprach schwärmerisch von ihm.)
+anzumerken -- Perceber/Demonstrar (Dava para perceber que ele estava nervoso. - Es war ihm anzumerken, dass er nervös war.)
+Übermaß -- Excesso (Há um excesso de oferta. - Es gibt ein Übermaß an Angebot.)
+Esslöffel -- Colher (Adicione uma colher de açúcar. - Gib einen Esslöffel Zucker hinzu.)
+Wettbewerbsveranstaltungen -- Eventos de competição (Há muitos eventos de competição. - Es gibt viele Wettbewerbsveranstaltungen.)
+gekritzelt -- Rabiscado (A mesa estava rabiscada. - Der Tisch war gekritzelt.)
+entziffern -- Decifrar (Eu não consigo decifrar a escrita. - Ich kann die Schrift nicht entziffern.)
+zerdrücken -- Esmagar (Não esmague a flor! - Zerdrück die Blume nicht!)
+Vorzugsbehandlung -- Tratamento preferencial (Ele recebeu tratamento preferencial. - Er erhielt Vorzugsbehandlung.)
+zusätzlich -- Adicionalmente (Eu quero algo adicionalmente. - Ich will zusätzlich noch etwas.)
+anerkennenden -- Reconhecedor (Ele olhou para o homem com um olhar reconhecedor. - Er blickte den Mann mit einem anerkennenden Blick an.)
+es mit Bedacht! -- Com cuidado (Faça isso com cuidado! - Tue es mit Bedacht!)
+geschummelt? -- Trapaceado (Ele trapaceou? - Hat er geschummelt?)
+drübergekotzt -- Vomitou sobre (Alguém vomitou sobre o carro. - Jemand hat über das Auto drübergekotzt.)
+Stöpsel -- Rolha (Coloque a rolha na garrafa. - Mach den Stöpsel in die Flasche.)
+unerfahrene -- Novato (Ele é um novato. - Er ist ein unerfahrener.)
+Lücke -- Gap (Há uma lacuna no mercado. - Es gibt eine Lücke im Markt.)
+Schlaglöcher -- Buracos na rua (A estrada está cheia de buracos. - Die Straße ist voller Schlaglöcher.)
+Ziegel -- Tijolo (A casa é feita de tijolos. - Das Haus ist aus Ziegeln gebaut.)
+Etliche -- Vários (Vários deles foram convidados. - Etliche von ihnen wurden eingeladen.)
+Messer -- Faca (Cuidado com a faca! - Vorsicht mit dem Messer!)
+ankündigen -- Anunciar (Eu quero anunciar alguma coisa. - Ich möchte etwas ankündigen.)
+Widerrede -- Contradição (Não há contradição. - Es gibt keinen Widerrede.)
+Topf -- Panela (A panela está quente. - Der Topf ist heiß.)
+erbärmlicher -- Mais patético (Ele é um mentiroso ainda mais patético! - Er ist ein noch erbärmlicherer Lügner!)
+ohrenbetäubendes -- Ensurdecedor (Houve um estrondo ensurdecedor. - Es gab einen ohrenbetäubenden Knall.)
+wankte -- Cambalear (Ele cambaleou para frente. - Er wankte vorwärts.)
+dreckige -- Sujo (A rua estava suja. - Die Straße war dreckig.)
+Abschaum -- Escória (Ele é a escória da sociedade. - Er ist der Abschaum der Gesellschaft.)
+Nagel -- Prego (Ele bateu o prego na parede. - Er schlug den Nagel in die Wand.)
+obszöne -- Obsceno (Não diga coisas obscenas! - Sag keine obszönen Dinge!)
+erdrosseln -- Estrangular (Ele tentou estrangulá-la. - Er versuchte sie zu erdrosseln.)
+spuckte -- Cuspir (Ele cuspiu no chão. - Er spuckte auf den Boden.)
+zischte -- Assobiou (A panela assobiou. - Der Topf zischte.)
+Schandfleck! -- Monstruosidade (Aquilo é uma monstruosidade! - Das ist ein Schandfleck!)
+Bruchbude -- Casebre (Eles moravam em um casebre. - Sie wohnten in einer Bruchbude.)
+genagelt? -- Pregado (Está pregado? - Ist es genagelt?)
+Klatsch -- Fofoca (Eu não gosto de fofoca. - Ich mag Klatsch nicht.)
+Vermutungen -- Suposições (São apenas suposições. - Das sind nur Vermutungen.)
+durchgebrannt -- Fugitivo (Ele fugiu. - Er ist durchgebrannt.)
+erworben -- Adquirido (Ele adquiriu a casa. - Er hat das Haus erworben.)
+gehorchten -- Obedecer (Os cães obedeceram ao comando. - Die Hunde gehorchten dem Befehl.)
+Massenkarambolage -- Super engarrafamento (Houve um super engarrafamento na estrada. - Es gab eine Massenkarambolage auf der Autobahn.)
+glänzenden -- Reluzente (O carro era reluzente. - Das Auto war glänzend.)
+endgültige -- Final (Esta é a decisão final. - Das ist die endgültige Entscheidung.)
+breitbrüstiger -- Peito largo (Ele é um homem de peito largo. - Er ist ein breitbrüstiger Mann.)
+Strafschüssen -- Penaltis (O time perdeu nos pênaltis. - Die Mannschaft verlor im Strafschüssen.)
+unbegründet -- Infundadas (As acusações são infundadas. - Die Vorwürfe sind unbegründet.)
+Gewissen -- Consciência (Ele tem uma boa consciência. - Er hat ein gutes Gewissen.)
+Fass -- Barril (O barril está cheio. - Das Fass ist voll.)
+Maden -- Larvas (Há larvas na carne. - Da sind Maden im Fleisch.)
+zapplig -- Inquieto (O cachorro está inquieto. - Der Hund ist zapplig.)
+Anläufe -- Tentativas (Ele fez várias tentativas de fugir. - Er unternahm mehrere Anläufe zur Flucht.)
+gerechnet -- Contar com (alguem) (Você pode contar comigo. - Du kannst mit mir gerechnet werden.)
+in der Hinsicht -- Em respeito (Eu concordo com você nesse respeito. - Ich stimme Ihnen in der Hinsicht zu.)
+gelten -- Valer (A oferta vale até sexta-feira. - Das Angebot gilt bis Freitag.)
+unterhaltsamen -- Divertido (O filme foi muito divertido. - Der Film war sehr unterhaltsam.)
+Gaumen -- Céu da boca (O chocolate derreteu no meu céu da boca. - Die Schokolade zerging auf meinem Gaumen.)
+Brummen -- Zumbido (Eu ouvi um zumbido. - Ich hörte ein Brummen.)
+baumelte -- Pendurou (O candelabro pendurou no teto. - Der Kronleuchter baumelte von der Decke.)
+zwielichtig -- Duvidoso (Ele é um personagem duvidoso. - Er ist ein zwielichtiger Charakter.)
+Ausflug -- Passeio (Nós fomos fazer um passeio. - Wir machten einen Ausflug.)
+gnädigerweise -- Graciosamente (Ele graciosamente concordou em ajudar. - Er stimmte gnädigerweise zu, zu helfen.)
+Gurgel -- Garganta (A garganta dele estava seca. - Seine Gurgel war trocken.)
+DIEBISCHER -- Ladrão (O ladrão roubou a joia. - Der diebischer Mann stahl den Schmuck.)
+Säule -- Coluna (A coluna sustenta o teto. - Die Säule stützt das Dach.)
+sperrig -- Pesado (A caixa era pesada. - Die Kiste war sperrig.)
+Verdacht -- Suspeita (Eu tenho uma suspeita. - Ich habe einen Verdacht.)
+feuchter -- Úmido (O chão estava úmido. - Der Boden war feucht.)
+Taubheit -- Surdez (Ele sofre de surdez. - Er leidet an Taubheit.)
+Zufalls -- Coincidência (Foi uma coincidência. - Es war ein Zufall.)
+Großzügigkeit -- Generosidade (Eu apreciei sua generosidade. - Ich schätzte deine Großzügigkeit.)
+Nahrung -- Alimento (Eles precisam de alimento. - Sie brauchen Nahrung.)
+schmuddeligen -- Sombrio (O quarto está sombrio. - Das Zimmer ist schmuddeligen.)
+Schürze -- Avental (Ela está usando um avental. - Sie trägt eine Schürze.)
+zermürbt -- Desgastado (Ela estava desgastada após a longa caminhada. - Sie war nach der langen Wanderung zermürbt.)
+Vereinbarungen -- Acordos (Eles fizeram vários acordos. - Sie haben mehrere Vereinbarungen getroffen.)
+Stipendium -- Bolsa de estudos (Eu recebi uma bolsa de estudos. - Ich habe ein Stipendium bekommen.)
+inwiefern? -- De que maneira? (De que maneira você pensa que isso vai ajudar? - Inwiefern denkst du, dass das helfen wird?)
+abwägen -- Pesar (sentido de considerar) (Você precisa pesar os prós e os contras. - Man muss die Vor- und Nachteile abwägen.)
+ertappen -- Pegar/Catch (Eu o peguei mentindo. - Ich habe ihn beim Lügen ertappt.)
+gestiegen -- Escalar (Os preços subiram. - Die Preise sind gestiegen.)
+kahler -- Sombrio (O quarto estava sombrio. - Der Raum war kahler.)Veranlagungen -- Predisposicoes
+anreden -- Chamar (Wie soll ich ihn anreden? - Como devo chamá-lo?)
+aufschlussreich -- Informativo (Das Gespräch war sehr aufschlussreich. - A conversa foi muito informativa.)
+unabhängig -- Independentemente (Ich möchte unabhängig sein. - Eu quero ser independente.)
+Und zum Schluss -- Para concluir (Und zum Schluss möchte ich mich bedanken. - E para concluir, gostaria de agradecer.)
+Kokon -- Casulo (Die Raupe ist im Kokon. - A lagarta está no casulo.)
+reizbar -- Irritável (Er ist heute sehr reizbar. - Ele está muito irritável hoje.)
+zusammenzusacken -- Entrar em colapso (Er drohte zusammenzusacken. - Ele ameaçou entrar em colapso.)
+Zug -- Gole (Er nahm einen Zug aus der Flasche. - Ele tomou um gole da garrafa.)
+Stupsnase -- Nariz arrebitado (Sie hat eine süße Stupsnase. - Ela tem um nariz arrebitado fofo.)
+entgangen -- Escapar (Das ist mir entgangen. - Isso me escapou.)
+Er mied -- Evitar (Er mied den Kontakt. - Ele evitou o contato.)
+verheimlicht -- Escondido (Er hat etwas verheimlicht. - Ele escondeu algo.)
+Schluchzen -- Soluçar (Sie begann zu schluchzen. - Ela começou a soluçar.)
+Und übrigens -- E a propósito (Und übrigens, ich habe eine Neuigkeit. - E a propósito, eu tenho uma novidade.)
+versöhnen -- Reconciliar (Sie versuchten, sich zu versöhnen. - Eles tentaram se reconciliar.)
+verstohlen -- Furiosamente (Er warf ihr einen verstohlenen Blick zu. - Ele lançou a ela um olhar furioso.) *Note: "verstohlen" means "furtively," not "furiously."
+strahlender -- Mais brilhante (Die Sonne strahlte noch strahlender. - O sol brilhava ainda mais forte.)
+Beleidigung -- Insulto (Das war eine Beleidigung! - Isso foi um insulto!)
+beschwipst -- Bêbada (Sie war leicht beschwipst. - Ela estava ligeiramente embriagada.)
+Zahnfleischentzündung -- Gengivite (Er hat eine Zahnfleischentzündung. - Ele tem gengivite.)
+beklommen? -- Apreensivo? (Mir ist beklommen zumute. - Estou me sentindo apreensivo.)
+verdächtigt -- Suspeito (Er wird verdächtigt, ein Dieb zu sein. - Ele é suspeito de ser um ladrão.)
+sich einmischen -- Interferir (Du solltest dich nicht einmischen! - Você não deveria interferir!)
+Pobacke -- Nádega (Er fiel auf die Pobacke. - Ele caiu de bunda.)
+unterbringen! -- Acomodar! (Wo sollen wir die Gäste unterbringen? - Onde vamos acomodar os convidados?)
+herauszukriegen -- Descobrir (Wir müssen herauszukriegen, was passiert ist. - Precisamos descobrir o que aconteceu.)
+tadellos -- Impecável (Sein Benehmen war tadellos. - O comportamento dele foi impecável.)
+Herrschaft -- Regimento/Controle (Die Herrschaft des Königs war grausam. - O regimento do rei era cruel.)
+beleidigt -- Insultado (Er war beleidigt. - Ele estava insultado.)
+ungehalten -- Indignado (Sie war ungehalten über die Verspätung. - Ela estava indignada com o atraso.)
+zwangsläufig -- Inevitavelmente (Das wird zwangsläufig passieren. - Isso vai acontecer inevitavelmente.)
+Haufen Maden -- Pilha de larvas (Es gab einen Haufen Maden im Müll. - Havia uma pilha de larvas no lixo.)
+Soße -- Molho (Gib mir mehr Soße! - Me dê mais molho!)
+Hof -- Pátio (Die Kinder spielten im Hof. - As crianças brincavam no pátio.)
+geraumer -- Algum (Nach geraumer Zeit kam er zurück. - Depois de algum tempo, ele voltou.)
+Sündenbock -- Bode expiatório (Er wurde zum Sündenbock gemacht. - Ele foi feito de bode expiatório.)
+Eine getrübte -- Nublada (Eine getrübte Stimmung lag in der Luft. - Um clima nublado pairava no ar.)
+Drohung -- Ameaça (Das ist eine Drohung! - Isso é uma ameaça!)
+bereuen -- Lamentar (Du wirst es bereuen! - Você vai se arrepender!)
+erliegen -- Sucumbir (Er erlag seinen Verletzungen. - Ele sucumbiu aos seus ferimentos.)
+Vorläufer -- Precursor (Der Computer ist ein Vorläufer des Internets. - O computador é um precursor da internet.)
+Herkunft -- Origem (Wo ist deine Herkunft? - Qual é a sua origem?)
+Schweigen -- Silêncio (Es herrschte Schweigen. - Havia silêncio.)
+abschätzen -- Estimar (Wir müssen die Kosten abschätzen. - Nós precisamos estimar os custos.)
+aufspüren! -- Rastrear! (Wir müssen den Täter aufspüren! - Precisamos rastrear o culpado!)
+minderjährig -- Menor de idade (Sie ist noch minderjährig. - Ela ainda é menor de idade.)
+festzustellen -- Determinar (Wir müssen die Ursache festzustellen. - Precisamos determinar a causa.)
+Gehorsam -- Obediente (Gehorsam ist wichtig. - Obediência é importante.)
+verderben? -- Estragar? (Willst du alles verderben? - Você quer estragar tudo?)
+werden auf die schiefe Bahn geraten -- Se perder (Er wird auf die schiefe Bahn geraten. - Ele vai se perder.)
+sputen Sie sich -- Anda logo (Sputen Sie sich, wir haben keine Zeit! - Anda logo, nós não temos tempo!)
+überarbeiten -- Revisar (Wir müssen den Text überarbeiten. - Precisamos revisar o texto.)
+preiszugeben -- Revelar (Ich werde mein Geheimnis nicht preiszugeben. - Eu não vou revelar meu segredo.)
+Abwehr -- Defesa (Wir brauchen eine gute Abwehr. - Precisamos de uma boa defesa.)
+Schummeleien! -- Trapacear! (Keine Schummeleien beim Spiel! - Não trapaceie no jogo!)
+nachmachen -- Replicar (Du sollst das nicht nachmachen. - Você não deve replicar isso.)
+nachzuahmen -- Imitar (Du sollst das nicht nachahmen. - Você não deve imitar isso.)
+selbstgefälliger -- Mais complacente (Er ist ein selbstgefälliger Mensch. - Ele é uma pessoa complacente.)
+heftig -- Violentamente (Es regnete heftig. - Choveu violentamente.)
+Ziege -- Cabra (Die Ziege frisst Gras. - A cabra come grama.)
+Verzweiflungstat -- Ato de desespero (Das war eine Verzweiflungstat. - Isso foi um ato de desespero.)
+verschwitzten -- Ligeiramente (um pouco) (Er hatte verschwitzten Hände. - Ele tinha mãos ligeiramente suadas.) Note: "verschwitzt" means "sweaty" or "perspiring".
+unabhängige -- Independente (Ela precisa ser independente. - Sie muss unabhängig sein.)
+brütete -- Pensou (Ele pensou sobre o assunto. - Er brütete über die Frage.)
+Erläuterung -- Explicação (Ich brauche eine Erläuterung. - Eu preciso de uma explicação.)
+Fingerzeig geben -- Insinuar (Er gab ihr einen Fingerzeig. - Ele lhe deu uma insinuação.)
+vertrieben -- Expulsar (Sie wurden aus dem Haus vertrieben. - Eles foram expulsos de casa.)
+Bedacht! -- Delibere! (Handele mit Bedacht! - Atue com delibere!) Note: Bedacht more closely translates to "care" or "caution." "Überlege es dir gut!" is closer to "deliberate."
+beliebiger -- Qualquer (Você pode escolher qualquer um. - Du kannst einen beliebigen auswählen.)
+Tunichtgut -- Imprestável (Ele é um imprestável! - Er ist ein Tunichtgut!)
+Umstand -- Circunstância (Devido às circunstâncias. - Aufgrund der Umstände.)
+Tröpfchen -- Goticula (Uma gotícula de água caiu do teto. - Ein Tröpfchen Wasser fiel von der Decke.)
+Schaum -- Espuma (O mar estava cheio de espuma. - Das Meer war voller Schaum.)
+Geburtstagsbescherung -- Presentes de aniversário (A festa de aniversário dele foi cheia de presentes. - Seine Geburtstagsbescherung war voller Geschenke.)
+Reinfall -- Fiasco (A festa foi um fiasco. - Die Party war ein Reinfall.)
+schniefte -- Cheirar (Ela cheirou para parar de chorar. - Sie schniefte, um nicht zu weinen.)
+schnarchen -- Roncar (Ele começou a roncar. - Er begann zu schnarchen.)
+genesen -- Recuperar (Ele está se recuperando da doença. - Er ist von der Krankheit genesen.)
+zusammenstecken -- Juntar (Vamos juntar nossas cabeças. - Wir müssen unsere Köpfe zusammenstecken.)
+selbstverständlich -- Natural (É natural que ele se sinta assim. - Es ist selbstverständlich, dass er sich so fühlt.)
+überarbeitet -- Sobrecarregado (Estou sobrecarregado de trabalho. - Ich bin überarbeitet.)
+Glut -- Brasas (As brasas estavam brilhando. - Die Glut glühte.)
+Trotz allem -- Apesar de (Apesar de tudo, estou feliz. - Trotz allem bin ich glücklich.)
+nachzuforschen -- Investigar (Precisamos investigar o assunto. - Wir müssen die Sache nachzuforschen.)
+lästiger -- Irritante (Essa mosca é irritante. - Diese Fliege ist lästiger.)
+Schädelbruch -- Fratura craniana (Ele sofreu uma fratura craniana. - Er erlitt einen Schädelbruch.)
+Überanstrengung -- Esforço excessivo (Ele teve um esforço excessivo. - Er hatte eine Überanstrengung.)
+Gesuch -- Pedido (Ele fez um pedido de ajuda. - Er stellte ein Gesuch um Hilfe.)
+Waage -- Balança (A balança está quebrada. - Die Waage ist kaputt.)
+Feixen -- Sorriso (Ele tinha um sorriso no rosto. - Er hatte ein Feixen im Gesicht.) Note: "Feixen" is more like a smug or sly grin.
+huschen -- Correr (Ele correu para dentro de casa. - Er huschte ins Haus.)
+Quellen -- Fontes (Nós precisamos de fontes confiáveis. - Wir brauchen zuverlässige Quellen.)
+lehnte alle Angebote ab -- Rejeitou as propostas (Ele rejeitou todas as propostas. - Er lehnte alle Angebote ab.)
+empfunden -- Sentido (Eu senti alegria. - Ich habe Freude empfunden.)
+Ernennung -- Nomeação (A nomeação dele foi uma surpresa. - Seine Ernennung war eine Überraschung.)
+überführt -- Transferido (O prisioneiro foi transferido para outra prisão. - Der Gefangene wurde in ein anderes Gefängnis überführt.)
+Züge -- Feições (As feições dela eram belas. - Ihre Züge waren schön.)
+verabredet -- Combinado (Eles tinham combinado um encontro. - Sie waren verabredet.)
+befehligen -- Comandar (Ele gostava de comandar. - Er liebte es, zu befehlen.)
+beabsichtigt -- Pretendido (Não era pretendido. - Es war nicht beabsichtigt.)
+Anweisung -- Instrução (Siga as instruções. - Befolgen Sie die Anweisung.)
+löste sich -- Sumiu (Ele sumiu na multidão. - Er löste sich in der Menge auf.)
+auf rätselhafte Weise -- Misteriosamente (Ele desapareceu misteriosamente. - Er verschwand auf rätselhafte Weise.)
+schmollt -- Ficar de mau humor (Ela está de mau humor. - Sie schmollt.)
+Beerdigung -- Funeral (O funeral será amanhã. - Die Beerdigung ist morgen.)
+Vergnügliches -- Divertido (Foi um dia divertido. - Es war ein vergnüglicher Tag.)
+Unüblich -- Incomum (Isso é incomum. - Das ist unüblich.)
+ausgleichen -- Equilibrar (Precisamos equilibrar as contas. - Wir müssen die Konten ausgleichen.)
+Grundgütiger -- Meu Deus (Meu Deus, o que aconteceu? - Grundgütiger, was ist passiert?)
+Gegenstand -- Objeto (Que objeto é esse? - Welcher Gegenstand ist das?)
+vorzuziehen -- Preferível (Eu acho isso preferível. - Ich finde das vorzuziehen.)
+Fahrlässigkeit -- Negligência (Isso foi negligência. - Das war Fahrlässigkeit.)
+geschwärzte -- Ennegrecido (O texto estava ennegrecido. - Der Text war geschwärzt.)
+Bescheidenheit -- Modéstia (Ele falou com modéstia. - Er sprach mit Bescheidenheit.)
+Gegenständen -- Objetos (Os objetos estavam na mesa. - Die Gegenständen standen auf dem Tisch.)
+gescheitert -- Falhado (O plano falhou. - Der Plan ist gescheitert.)
+unversehrt -- Ileso (Ele saiu ileso. - Er kam unversehrt davon.)
+machomäßiger -- Mais macho (Ele se comportou de maneira machista. - Er benahm sich machomäßiger.)
+gejohlt -- Vaiou (A multidão vaiou o palestrante. - Die Menge johlte den Redner aus.)
+Bedingung -- Condição (Qual é a condição? - Was ist die Bedingung?)
+unzugänglich -- Inacessível (A área é inacessível. - Das Gebiet ist unzugänglich.)
+Hindernisse -- Obstáculos (Há muitos obstáculos no caminho. - Es gibt viele Hindernisse auf dem Weg.)
+unvermeidlich -- Inevitável (É inevitável. - Das ist unvermeidlich.)
+Ufer -- Costa (Eles estavam sentados na costa. - Sie saßen am Ufer.)
+überqueren -- Cruzar (Nós precisamos cruzar a rua. - Wir müssen die Straße überqueren.)
+Vorläufig -- Por enquanto (Por enquanto, está tudo bem. - Vorläufig ist alles in Ordnung.)
+Sockel -- Pedestal (A estátua estava em um pedestal. - Die Statue stand auf einem Sockel.)
+Beunruhigenderes -- Mais perturbador (Há algo mais perturbador do que isso. - Es gibt etwas Beunruhigenderes als das.)
+erpicht -- Ávido (Ele está ávido por conhecimento. - Er ist erpicht auf Wissen.)
+schonen -- Poupar (Você deve poupar energia. - Sie müssen Energie schonen.)
+Turm -- Torre (A torre era muito alta. - Der Turm war sehr hoch.)
+Ruhm -- Fama (Ele busca fama. - Er sucht Ruhm.)
+Anerkennung -- Reconhecimento (Ele busca reconhecimento. - Er sucht Anerkennung.)
+unbeabsichtigten -- Involuntário (Foi um erro involuntário. - Das war ein unbeabsichtigten Fehler.)
+Gnade -- Misericórdia (Implore por misericórdia! - Flehe um Gnade!)
+Sterbebett? -- Leito de morte? (Ele fez uma promessa no leito de morte. - Er gab ein Versprechen auf dem Sterbebett ab.)
+verhehlen -- Negar (Não há nada a negar. - Es gibt nichts zu verhehlen.)
+anwidert -- Enojar (Ela estava enojada. - Sie war anwidert.)
+flehte -- Implorou (Ela implorou por misericórdia. - Sie flehte um Gnade.)
+Feigling -- Covarde (Você é um covarde! - Du bist ein Feigling!)
+Urheber -- Autor (Ele é o autor do livro. - Er ist der Urheber des Buches.)
+Lage -- Situação (A situação é difícil. - Die Lage ist schwierig.)
+geäußert -- Expressar (Ele expressou sua opinião. - Er hat seine Meinung geäußert.)
+Begräbnis? -- Funeral (Você irá ao funeral? - Gehst du zum Begräbnis?)
+Grabmal -- Túmulo (Eles estavam no tumulo da família. - Sie waren auf dem Familiengrabmal.)
+erschüttert -- Abalado (Ela ficou abalada com a notícia. - Sie war von der Nachricht erschüttert.)
+verwickelt -- envolvido (er war in einen komplizierten rechtsfall verwickelt.)
+begräbnis -- funeral (das begräbnis fand in einer kleinen kapelle statt.)
+zertrümmert -- Destruir: Das Fenster wurde zertrümmert - A janela foi destruída
+ferngesteuertes -- Controle Remoto: Er spielt mit einem ferngesteuerten Auto - Ele joga com um carro de controle remoto
+Fürchterliches -- Terrível: Es ist etwas Fürchterliches passiert - Aconteceu algo terrível
+reichte -- Entregar: Sie reichte ihm die Hand - Ela entregou a mão para ele
+Fräcke -- Fraque: Die Herren trugen Fräcke zum Ball - Os cavalheiros usavam casaca no baile
+Gestank -- Fedor: Es lag ein übler Gestank in der Luft - Havia um fedor ruim no ar
+Offenbar -- Aparentemente: Offenbar hat er gelogen - Aparentemente ele mentiu
+Schüssel -- Tigela: Sie füllte die Schüssel mit Salat - Ela encheu a tigela com salada
+schmutziger -- Sujo: Er hatte schmutzige Hände - Ele tinha as mãos sujas
+nass -- Molhada: Die Straße ist nass vom Regen - A rua está molhada da chuva
+wich -- Esquivar: Er wich dem Schlag aus - Ele se esquivou do golpe
+Umschlag -- Envelope: Der Brief war in einem blauen Umschlag - A carta estava em um envelope azul
+Gummiband -- Elástico: Sie band das Paket mit einem Gummiband zusammen - Ela amarrou o pacote com um elástico
+Verwandten -- Familia: Wir besuchten unsere Verwandten - Visitamos nossos parentes
+zitternder -- Tremula: Sie hielt die zitternde Hand aus - Ela estendeu a mão trêmula
+Siegel -- Selo: Das Dokument trug ein offizielles Siegel - O documento trazia um selo oficial
+Wachs -- Cera: Die Kerze ist aus Wachs - A vela é de cera
+Adler -- Águia: Der Adler kreiste am Himmel - A águia circulava no céu
+Dachs -- Texugo: Im Wald lebt ein Dachs - Na floresta vive um texugo
+unverwandt -- Incondicionalmente: Er starrte sie unverwandt an - Ele a encarou incondicionalmente
+Riss -- Rasgo, buraco: In der Wand ist ein Riss - Na parede tem um rasgo.
+Abscheu -- Aversão: Er empfand Abscheu vor der Tat - Ele sentiu aversão pelo ato.
+faule -- Podre: Der Apfel ist faule - A maçã está podre.
+entfalten -- Abrir: Sie entfaltete die Zeitung - Ela abriu o jornal
+Verkehrsampel -- Semáforo: Sie wartete an der Verkehrsampel - Ela esperou no semáforo.
+Ohnmacht -- Desmaio: Sie fiel in Ohnmacht - Ela desmaiou.
+schmerzhaften -- Doloroso: Er hatte eine schmerzhaften Verletzung - Ele tinha uma lesão dolorosa.
+Hieb -- Golpe: Der Hieb traf ihn am Arm - O golpe o atingiu no braço.
+Prompt -- Prontamente: Er antwortete prompt - Ele respondeu prontamente.
+lieferten -- Entregaram: Sie lieferten die Ware pünktlich - Eles entregaram as mercadorias no prazo.
+beobachten -- Espiar: Sie beobachteten das Haus - Eles estavam observando a casa.
+Unsinn -- Bobagem: Das ist doch Unsinn! - Isso é besteira!
+auszumerzen?« -- Erradicar: Wir müssen die Fehler auszumerzen! - Precisamos erradicar os erros!
+Versehen« -- Engano: Das war ein Versehen - Isso foi um engano.
+Spinnen -- Aranha: Sie hat Angst vor Spinnen - Ela tem medo de aranhas.
+Decke -- Teto: Die Lampe hängt an der Decke - A lâmpada está pendurada no teto.
+allmählich -- Gradualmente: Es wurde allmählich dunkel - Estava escurecendo gradualmente.
+ziehen -- Mudar-se: Sie wollen in eine andere Stadt ziehen - Eles querem se mudar para outra cidade.
+Zeug -- Coisa: Was ist das für ein Zeug? - Que coisa é essa?
+aufbewahrte -- Guardar: Sie aufbewahrte die Fotos in einer Schachtel - Ela guardou as fotos em uma caixa.
+abgesetzt -- Cancelado: Das Konzert wurde abgesetzt - O show foi cancelado.
+Regale -- Prateleiras: Die Bücher stehen im Regale - Os livros estão nas prateleiras.
+angerührt -- Tocado: Sie war von der Geschichte sehr angerührt - Ela ficou muito comovida com a história.
+unten war Dudley zu hören -- Embaixo, Dudley podia ser ouvido: Unten war Dudley zu hören - Embaixo podia ser ouvido Dudley
+anbrüllte -- Gritou: Er anbrüllte sie - Ele gritou com ela.
+seufzte -- Suspirou: Sie seufzte tief - Ela suspirou profundamente.
+streckte -- Esticou: Sie streckte die Hand aus - Ela esticou a mão.
+Bitterkeit. -- Amargura: Er sprach mit Bitterkeit - Ele falou com amargura.
+Miene -- Expressão: Sie hatte eine traurige Miene - Ela tinha uma expressão triste.
+Flur -- Corredor: Sie stand im Flur - Ela estava no corredor.
+entwinden, -- Abrir: Sie versuchte sich seinem Griff zu entwinden - Ela tentou escapar de seu aperto.
+Gerangel -- Luta: Es gab ein Gerangel um den Ball - Houve uma briga pela bola.
+Das bedeutete doch gewiss -- Isso certamente significava: Das bedeutete doch gewiss das Ende - Isso certamente significava o fim.
+ausgeheckt -- Bolado: Er hatte einen Plan ausgeheckt - Ele tinha bolado um plano.
+Matschiges -- Enlameado: Er trat auf Matschiges - Ele pisou em algo enlameado.
+getreten, -- Pisado: Er wurde getreten - Ele foi pisado.
+hindern, -- Impedir: Sie versuchten, ihn zu hindern - Eles tentaram impedi-lo.
+Niedergeschlagen -- Deprimido: Sie war niedergeschlagen - Ela estava deprimida.
+Schoß -- Colo: Das Kind saß auf ihrem Schoß - A criança estava sentada em seu colo.
+zustellen -- Entregar: Sie wollte ihm ein Paket zustellen - Ela queria entregar um pacote para ele.
+durchgeschoben -- Empurrado: Er hat den Brief unter der Tür durchgeschoben - Ele empurrou a carta por baixo da porta.
+gerieten -- Entraram: Sie gerieten in Streit - Eles começaram a brigar.
+Molkerei -- Laticínios: Sie arbeitet in einer Molkerei - Ela trabalha em uma leiteria.
+beschweren -- Reclamar: Sie wollte sich nicht beschweren - Ela não queria reclamar.
+ziemlich -- Bastante: Es ist ziemlich kalt - Está bastante frio.
+erschöpft, -- Exausto: Sie war erschöpft nach der Arbeit - Ela estava exausta depois do trabalho.
+Kugeln -- Bolas: Die Kinder spielten mit Kugeln - As crianças estavam brincando com bolas de gude.
+Kamin -- Lareira: Das Feuer brannte im Kamin - O fogo estava aceso na lareira.
+hielten -- Pararam: Sie hielten das Auto an - Eles pararam o carro.
+Außerirdischen -- Alienígenas: Er glaubt an Außerirdischen - Ele acredita em alienígenas.
+jagen -- Caçar: Sie gingen auf die Jagd - Eles foram caçar.
+Empfangsschalter.« -- Balcão de recepção: Sie meldete sich am Empfangsschalter - Ela fez o check-in no balcão de recepção.
+schüchterner -- Tímido: Sie war ein schüchterner Junge - Ele era um garoto tímido.
+Küste -- Costa: Sie wohnt an der Küste - Ela mora na costa.
+Kleiderbügel -- Cabide: Sie hängte das Kleid auf einen Kleiderbügel - Ela pendurou o vestido em um cabide.
+schmales -- Estreito: Er wohnte in einem schmales Haus - Ele morava em uma casa estreita.
+Felsen -- Rocha: Die Wellen brachen an den Felsen - As ondas quebravam nas rochas.
+Hütte -- Cabana: Sie wohnten in einer kleinen Hütte - Eles moravam em uma pequena cabana.
+leihen!<< -- Emprestar: Kann ich dein Buch leihen - Posso pegar seu livro emprestado?
+Futterrationen -- Ração: Der Bauer gab den Tieren Futterrationen - O fazendeiro deu ração para os animais.
+Feuerstelle -- Lareira: Sie saßen um die Feuerstelle - Eles sentaram em volta da lareira.
+dachte im Stillen -- Pensou em silêncio: Er dachte im Stillen über ihre Worte nach - Ele pensou em silêncio sobre as palavras dela.
+Gischt -- Borrifo: Die Gischt spritzte hoch - O borrifo espirrou alto.
+Leintücher -- Lençol: Sie deckte das Bett mit Leintüchern - Ela cobriu a cama com lençóis.
+weichste -- Mais macio: Dies ist das weichste Kissen - Este é o travesseiro mais macio.
+zusammenkauern -- Aconchegar-se: Sie zusammenkauern in die Ecke - Ela se aconchega no canto.
+Dach -- Telhado: Das Wasser tropfte vom Dach - A água pingava do telhado.
+Geräusch? -- Ruído: Was ist das für ein Geräusch? - Que barulho é esse?
+erzitterte. -- Tremer: Er erzitterte vor Kälte - Ele tremeu de frio.
+klopfte. -- Bater: Er klopfte an der Tür - Ele bateu na porta.
+Krachen. -- Estrondo: Es gab ein lautes Krachen - Houve um estrondo alto.
+gänzlich -- Completamente: Er war gänzlich überrascht - Ele ficou completamente surpreso.
+schimmerten -- Brilhou: Die Sterne schimmerten am Himmel - As estrelas brilhavam no céu.
+Käfer -- Besouro: Ein Käfer krabbelte über den Boden - Um besouro rastejou pelo chão.
+bückte sich -- Se abaixou: Sie bückte sich, um die Münze aufzuheben - Ela se abaixou para pegar a moeda.
+versteinerte -- Petrificado: Sie versteinerte vor Schreck - Ela ficou petrificada de medo.
+grimmiges -- Sinistro: Er hatte einen grimmiges Blick - Ele tinha um olhar sinistro.
+Riese. -- Gigante: Er war ein Riese von Mann - Ele era um homem gigante.
+Hausfriedensbruch!« -- Violação de domicílio!: Er wurde wegen Hausfriedensbruch angeklagt! - Ele foi acusado de invasão de domicílio!
+Geräusch -- Som: Sie hörte ein seltsames Geräusch - Ela ouviu um som estranho.
+eingedellte -- Amassada: Die Dose war eingedellte - A lata estava amassada.
+Schachtel -- Caixa: Sie bewahrte die Fotos in einer Schachtel auf - Ela guardou as fotos em uma caixa.
+Hüter -- Guardião: Der Hund war der Hüter des Hauses - O cachorro era o guardião da casa.
+gewaltige -- Enorme: Das ist eine gewaltige Aufgabe - Essa é uma tarefa enorme.
+beugte -- Inclinou: Er beugte sich vor - Ele se inclinou para frente.
+aufrichtete -- Levantou-se: Er aufrichtete sich langsam - Ele levantou-se lentamente.
+Duft -- Aroma: Der Duft der Blumen war betörend - O aroma das flores era hipnotizante.
+saftigen -- Suculenta: Sie aß einen saftigen Apfel - Ela comeu uma maçã suculenta.
+zappelte -- Agitou-se: Der Fisch zappelte am Haken - O peixe se agitou no anzol.
+gemästet werden -- Engordar: Die Tiere werden gemästet werden - Os animais serão engordados.
+Zorn -- Raiva: Er war voller Zorn - Ele estava cheio de raiva.
+berühmt -- Famoso: Sie ist eine berühmt Schauspielerin - Ela é uma atriz famosa.
+bestürzten -- Consternado: Sie waren bestürzten über die Nachricht - Eles ficaram consternados com a notícia.
+verbiete -- Proíbe: Ich verbiete dir das! - Eu te proíbo isso!
+vorenthalten?« -- Reter, esconder: Was wollen sie mir vorenthalten? - O que eles estão tentando esconder de mim?
+HEXEREI -- Feitiçaria: Sie glaubte an HEXEREI - Ela acreditava em feitiçaria.
+Ausrüstungsgegenstände -- Equipamentos: Die Soldaten trugen ihre Ausrüstungsgegenstände - Os soldados carregavam seus equipamentos.
+entscheiden -- Decidir: Er muss sich bald entscheiden - Ele precisa decidir em breve.
+Federkiel -- Pena: Er schrieb mit einem Federkiel - Ele escreveu com uma pena.
+Fürchterlich -- Terrível: Es war ein Fürchterlich Tag - Era um dia terrível.
+Pech -- Azar: Er hatte Pech im Spiel - Ele teve azar no jogo.
+auszubläuen! -- Explodir: Vor Wut könnte er auszubläuen! - Ele poderia explodir de raiva!
+vermaledeite -- Amaldiçoado: Er nannte ihn einen vermaledeite Schurken - Ele o chamou de um vilão amaldiçoado.
+Missgeburt -- Aberração: Das ist eine Missgeburt der Natur - Essa é uma aberração da natureza.
+bleich -- Pálido: Sie war bleich vor Angst - Ela estava pálida de medo.
+erwischen, -- Pegar: Ich werde dich erwischen, wenn du nicht aufpasst! - Eu vou te pegar se você não tomar cuidado!
+aufgespießt -- Empalado: Der Vogel wurde aufgespießt - O pássaro foi empalado.
+Trance -- Transe: Sie fiel in eine Trance - Ela caiu em um transe.
+Irrtum -- Erro: Das ist ein Irrtum - Isso é um erro.
+schikaniert -- Assediado: Er wurde von seinen Mitschülern schikaniert - Ele era assediado por seus colegas de classe.
+endgültig -- Finalmente: Das ist die endgültig Entscheidung - Essa é a decisão final.
+Schirm, -- Guarda chuva: Sie öffnete ihren Schirm - Ela abriu seu guarda-chuva.
+polterte -- Trovejou: Er polterte los - Ele trovejou.
+GEGENWART!« -- Presente!: GEGENWART!« - Presente!
+Schweineschwänzchen -- Rabo de porco: Ihr Haar war zu Schweineschwänzchen gebunden - Seu cabelo estava amarrado em rabos de porco
+Übliche -- Usual: Das ist die übliche Vorgehensweise - Essa é a forma usual de proceder.
+Hand schütteln -- Apertar as mãos: Sie gaben sich die Hand schütteln - Eles apertaram as mãos um do outro.
+Verteidigung -- Defesa: Er baute eine Verteidigung auf - Ele construiu uma defesa.
+Ausrüstung -- Equipamentos: Die Bergsteiger brauchten spezielle Ausrüstung - Os alpinistas precisavam de equipamentos especiais.
+Mülleimer -- Lixo: Sie warf den Müll in den Mülleimer - Ela jogou o lixo na lixeira.
+Unkräuter -- Ervas daninhas: Sie jätete die Unkräuter im Garten - Ela capinou as ervas daninhas no jardim.
+Schirm -- Guarda-chuva: Er hatte einen Schirm dabei - Ele estava com um guarda-chuva.
+Schulter -- Ombro: Er legte ihr die Hand auf die Schulter - Ele colocou a mão no ombro dela.
+rundliche -- Arredondada: Sie hatte ein rundliche Gesicht - Ela tinha um rosto arredondado.
+Schaufenster -- Vitrine: Sie schaute in das Schaufenster - Ela olhou para a vitrine.
+Kobolde -- Goblins: Das sind Kobolde - Isso são goblins.
+Schalter -- Interruptor: Er betätigte den Schalter - Ele acionou o interruptor.
+Verlies -- Masmorra: Der Gefangene wurde ins Verlies gebracht - O prisioneiro foi levado para a masmorra.
+engen -- Estreito: Der Weg war sehr engen - O caminho era muito estreito.
+Gang -- Corredor: Sie ging den Gang entlang - Ela caminhou pelo corredor.
+Karre -- Carroça: Der Bauer zog die Karre - O fazendeiro puxou a carroça.
+hügelweise -- Monte: Sie hatten hügelweise Steine gestapelt - Eles empilharam pedras em montes.
+Haufenweise -- Em montes: Es gab haufenweise Geschenke unter dem Baum - Havia montes de presentes embaixo da árvore.
+Vermögen -- Fortuna: Er hat ein großes Vermögen geerbt - Ele herdou uma grande fortuna.
+bewahren -- Preservar: Wir müssen die Natur bewahren - Devemos preservar a natureza.
+Kragen -- Gola: Er zog den Kragen hoch - Ele levantou a gola.
+sagenhafte -- Fabulosa: Sie erzählte eine sagenhafte Geschichte - Ela contou uma história fabulosa.
+Juwelen -- Jóias: Sie trug Juwelen - Ela usava joias.
+Päckchen. -- Pacote: Sie schickte ihm ein Päckchen - Ela enviou-lhe um pacote.
+gelangweilter -- Entediado: Der Schüler war gelangweilter - O aluno estava entediado.
+schleppender -- Arrastando: Er hatte einen schleppender Gang - Ele estava arrastando.
+Rennbesen -- Vassoura de corrida: Harry Potter benutzt einen Rennbesen - Harry Potter usa uma vassoura de corrida.
+abhauen -- Desaparecer: Ich will hier nur noch abhauen - Eu só quero sair daqui.
+Tüten -- Sacos: Sie packte die Einkäufe in Tüten - Ela embalou as compras em sacolas.
+aufzunehmen -- Acolher, receber: Sie luden uns ein, sie aufzunehmen - Eles nos convidaram para recebê-los.
+bedrückt. -- Deprimido: Sie wirkte bedrückt - Ela parecia deprimida.
+Zutaten -- Ingredientes: Wir brauchen alle Zutaten für den Kuchen - Precisamos de todos os ingredientes para o bolo.
+abzumessen -- Medir: Wir müssen die Zutaten genau abzumessen - Temos que medir os ingredientes com precisão.
+Kröte -- Sapo: Im Teich schwamm eine Kröte - Havia um sapo nadando no lago.
+niesen. -- Espirrar: Er musste niesen - Ele teve que espirrar
+Käfig -- Jaula: Der Vogel saß im Käfig - O pássaro estava na jaula.
+Zauberstäbe -- Varinhas: Die Zauberer benutzten Zauberstäbe - Os magos usaram varinhas.
+schäbig. -- Surrada: Sie trug einen schäbig Mantel - Ela usava um casaco surrado.
+Glocke. -- Sino: Die Glocke läutete - O sino tocou.
+Staub -- Poeira: Überall lag Staub - Havia poeira por toda parte.
+sanfte -- Suave: Sie hatte eine sanfte Stimme - Ela tinha uma voz suave.
+Knacken -- Crack: Sie hörte ein Knacken im Wald - Ela ouviu um estalo na floresta.
+blinzeln. -- Piscar: Sie musste im hellen Licht blinzeln - Ela teve que piscar na luz brilhante.
+gruslig. -- Assustador: Das war eine gruslig Geschichte - Essa foi uma história assustadora.
+berührten. -- Tocar: Sie berührten sich versehentlich - Eles se tocaram acidentalmente.
+schüttelte den Kopf -- Balançar a cabeça: Er schüttelte den Kopf - Ele balançou a cabeça.
+fürchte, -- Medo: Ich fürchte, das ist nicht möglich - Eu temo que isso não seja possível.
+Kern -- Núcleo: Der Kern des Problems liegt woanders - O núcleo do problema está em outro lugar.
+Zauberstoff -- Substância mágica: Sie suchten nach einem Zauberstoff - Eles estavam procurando uma substância mágica.
+Stapel -- Pilha: Sie ordnete die Bücher in einem Stapel - Ela organizou os livros em uma pilha.
+desto -- quanto mais: Je mehr er lernte, desto interessierter war er - Quanto mais ele aprendia, mais interessado ele ficava.
+ungewöhnliche -- Incomum: Das war eine ungewöhnliche Situation - Essa era uma situação incomum.
+klatschte, -- Aplaudir: Das Publikum klatschte, der Performer verbeugte sich - A platéia aplaudiu, o artista se curvou.
+einzelnen. -- Individual: Er sprach mit den einzelnen Teilnehmern - Ele falou com os participantes individualmente.
+schluckte. -- Engolir: Sie musste schwer schlucken - Ela teve que engolir em seco.
+schwieg -- Permanecer em silêncio: Er schwieg lange - Ele permaneceu em silêncio por um longo tempo.
+Schoß. -- Colo: Die Katze lag auf ihrem Schoß - O gato estava deitado em seu colo.
+Imbiss -- Lanche: Sie holten sich einen Imbiss am Kiosk - Eles pegaram um lanche no quiosque.
+verspeisen. -- Comer: Sie verspeisen zusammen - Eles estão comendo juntos.
+kaute -- Mastigado: Sie kaute an ihrem Fingernagel - Ela roeu sua unha.
+Umschlag. -- Envelope: Sie fand einen Umschlag auf dem Schreibtisch - Ela encontrou um envelope na mesa.
+Abreise -- Partida: Die Abreise ist morgen - A partida é amanhã.
+Gleis -- Trilho, plataforma: Der Zug fährt von Gleis 3 ab - O trem parte da plataforma 3.
+zwangen -- Forçar: Sie zwangen ihn zu unterschreiben - Eles o forçaram a assinar.
+Hinsicht -- Respeito: In jeder Hinsicht ein guter Mensch - Em todos os sentidos, uma boa pessoa.
+niedergeschlagen. -- Deprimido: Er wirkte niedergeschlagen - Ele parecia deprimido.
+Staubsauger -- Aspirador de pó: Sie schaltete den Staubsauger ein - Ela ligou o aspirador de pó.
+hakte -- Marcou: Sie hakte die Aufgabe ab - Ela marcou a tarefa como concluída.
+Räusperte -- Limpou a garganta: Er Räusperte sich - Ele limpou a garganta.
+ausmachen -- Se importar: Das wird ihm nichts ausmachen - Isso não vai incomodá-lo.
+Löcher -- Buracos: In der Hose waren Löcher - Havia buracos na calça.
+Stuss.« -- Besteira: Red keinen Stuss! - Não diga besteira!
+Mühe -- Esforço: Das war eine große Mühe - Isso foi um grande esforço.
+Schwanz -- Cauda: Der Hund wedelte mit dem Schwanz - O cachorro abanou o rabo.
+vergewissern -- Certificar-se: Sie musste sich vergewissern - Ela tinha que se certificar.
+Grinsen -- Sorriso, careta: Er hatte ein breites Grinsen im Gesicht - Ele tinha um sorriso largo no rosto.
+trocken. -- Seco: Das Brot ist trocken - O pão está seco.
+Wachmann -- Guarda: Der Wachmann kontrollierte die Ausweise - O guarda verificou os documentos.
+absichtlich -- De propósito: Er hat das absichtlich gemacht - Ele fez isso de propósito.
+mürrische -- Mal-humorado: Er war ein mürrische alte Mann - Ele era um velho mal-humorado.
+spurlos -- Sem rastros: Er verschwand spurlos - Ele desapareceu sem deixar rastros.
+Sommersprossen -- Sardas: Sie hatte viele Sommersprossen im Gesicht - Ela tinha muitas sardas no rosto.
+schnurstracks -- Em linha reta: Er ging schnurstracks zum Ziel - Ele foi direto ao objetivo.
+dagegenknallen -- Bater contra: Er fuhr gegen den Baum dagegenknallen - Ele bateu contra a árvore.
+rempelten -- Bater em: Sie rempelten sich auf dem Flur - Eles bateram um no outro no corredor.
+Aufprall -- Impacto: Der Aufprall war heftig - O impacto foi violento.
+schmiedeeisernes -- Ferro forjado: Sie wohnten in einem Haus mit einem schmiedeeisernes Tor - Eles moravam em uma casa com um portão de ferro forjado.
+Geschnatter -- Tagarelice: Es herrschte lautes Geschnatter - Havia muita tagarelice.
+Auflauf -- Multidão: Es gab einen großen Auflauf vor dem Kino - Havia uma grande multidão em frente ao cinema.
+Deckel -- Tampa: Sie nahm den Deckel vom Topf - Ela tirou a tampa da panela.
+Abteil -- Compartimento: Sie saßen im Abteil des Zuges - Eles estavam sentados no compartimento do trem.
+wuchten -- Levantar: Er musste den schweren Koffer wuchten - Ele teve que levantar a mala pesada.
+Zwillinge -- Gêmeos: Sie waren Zwillinge - Eles eram gêmeos.
+Vertrauensschüler -- Monitor: Er wurde zum Vertrauensschüler gewählt - Ele foi eleito monitor.
+höflich -- Educado: Er war sehr höflich - Ele foi muito educado.
+Ruck -- Jerk: Sie fuhren mit einem Ruck los - Eles partiram com um solavanco.
+winkten. -- Acenou: Sie winkten zum Abschied - Eles acenaram em despedida.
+schweigend -- Silenciosamente: Sie gingen schweigend nebeneinander her - Eles caminharam lado a lado em silêncio.
+strich sich die Haare aus dem Gesicht -- Passou o cabelo para trás do rosto: Sie strich sich die Haare aus dem Gesicht - Ela passou o cabelo para trás do rosto.
+Buchhalter -- Contador: Er arbeitet als Buchhalter - Ele trabalha como contador.
+Miene. -- Expressão: Sie hatte eine besorgte Miene - Ela tinha uma expressão preocupada.
+aufzumuntern -- Alegrar: Sie versuchte, ihn aufzumuntern - Ela tentou animá-lo.
+sammeln.« -- Recolher: Wir müssen Spenden sammeln.« - Devemos recolher doações.
+sichtbar.« -- Visível: Der Fehler war deutlich sichtbar.« - O erro era claramente visível.
+Geschmacksrichtung -- Sabor: Welche Geschmacksrichtung möchten Sie? - Qual sabor você gostaria?
+kühn -- Ousado: Er war ein kühn Abenteurer - Ele era um aventureiro ousado.
+verweint -- Choroso: Sie sah verweint aus - Ela parecia chorosa.
+Krätze -- Sarna: Der Hund hatte Krätze - O cachorro tinha sarna.
+Haarschopf -- Topete, Franja: Er hatte einen verwegenen Haarschopf - Ele tinha um topete ousado.
+Zauberspruch -- Feitiço: Sie sprach einen Zauberspruch aus - Ela lançou um feitiço.
+schwurbelig -- Tonto, confuso: Mir ist ganz schwurbelig im Kopf - Estou me sentindo muito tonto.
+Übrigens -- A propósito: Übrigens, ich habe ihn gestern gesehen - A propósito, eu o vi ontem.
+erwischt. -- Pego: Ich habe dich erwischt! - Eu te peguei!
+Besen, -- Vassoura: Sie fegte den Boden mit einem Besen - Ela varreu o chão com uma vassoura.
+leisten -- Cuidar, permitir: Sie konnte es sich nicht leisten - Ela não podia pagar.
+Dreck -- Sujeira: Mach nicht so viel Dreck! - Não faça tanta sujeira!
+gewaltiges -- Enorme: Das ist ein gewaltiges Problem - Este é um problema enorme.
+Türmen -- Empilhar, torre: Die Wolken türmen sich auf - As nuvens estão se empilhando.
+Eichentor -- Portão de carvalho: Sie öffneten das Eichentor - Eles abriram o portão de carvalho.
+hob -- Levantou: Er hob den Arm - Ele levantou o braço.
+Faust -- Punho: Er ballte die Faust - Ele cerrou o punho.
+feststellen, -- Determinar, constatar: Wir müssen den Schaden feststellen - Precisamos determinar o dano.
+Auszeichnung -- Honra, reconhecimento: Sie erhielt eine hohe Auszeichnung - Ela recebeu uma alta honra.
+verschmierter -- Borrado: Sie hatte verschmierter Lippenstift im Gesicht - Ela tinha batom borrado no rosto.
+angestrengt -- Tenso: Er wirkte angestrengt - Ele parecia tenso.
+»Vergeben -- Perdoar: Er bat sie, ihm zu »Vergeben - Ele pediu a ela para perdoá-lo.
+Verruf, -- Descrédito: Das brachte ihn in Verruf - Isso o desacreditou.
+Strumpfhosen -- Meia-calça: Sie trug Strumpfhosen unter dem Rock - Ela usava meia-calça por baixo da saia.
+Kerzen -- Velas: Die Kerzen brannten - As velas estavam acesas.
+Hasen -- Lebres: Im Garten hoppelte ein Hasen - Uma lebre saltitava no jardim.
+Krempe -- Aba: Er zog den Hut tief in die Krempe - Ele puxou o chapéu para baixo até a aba.
+pfiffen -- Apitar: Der Zug pfiffen - O trem apitou.
+stöhnte -- Gemido: Er stöhnte vor Schmerzen - Ele gemeu de dor.
+Hälse -- Pescoços: Sie reckten die Hälse - Eles esticaram o pescoço.
+Mut, -- Coragem: Sie bewies viel Mut - Ela demonstrou muita coragem.
+Begabung, -- Talento, habilidade: Er hatte eine besondere Begabung für Musik - Ele tinha um talento especial para a música.
+köstlich -- Delicioso: Das Essen war köstlich - A comida estava deliciosa.
+stierenden -- Espiando: Sie bemerkte seinen stierenden Blick - Ela notou seu olhar espiando.
+gehüpft -- Salto: Das Kind ist gehüpft auf der Straße - A criança está pulando na rua
+Verwandlungen, -- Transformaçãos: Dieser Zauberer kann Verwandlungen, - Este mago pode fazer transformaçoes
+unterhält -- Entreter: Dieser Zauberer unterhält Die Menschen - Este mago entretem as pessoas
+juntos" -- Juntos: Wir sind juntos" - Estamo juntos
+Zaubertränke -- Poções: Sie braute Zaubertränke - Ela preparava poções.
+nahelegen -- Sugerir: Ich möchte Ihnen Folgendes nahelegen - Eu gostaria de sugerir o seguinte a você.
+Auswahl -- Escolha: Sie hatte eine große Auswahl - Ela tinha uma grande variedade.
+Schlange, -- Cobra: Die Schlange zischte - A cobra sibilou.
+klatschte -- Aplaudir: Das Publikum klatschte begeistert - O público aplaudiu com entusiasmo.
+schläfrig, -- Sonolento: Er wurde schläfrig - Ele ficou sonolento.
+gehässigen -- Odioso: Sie sprach mit gehässigen Ton - Ela falou com um tom odioso.
+Kichern. -- Risadas: Sie unterdrückte ein Kichern - Ela reprimiu uma risadinha.
+im Griff hat, -- Ter sob controle: Er scheint die Situation im Griff hat, - Ele parece ter a situação sob controle.
+weicher -- Suave: Sie saß auf einem weicher Kissen - Ela estava sentada sobre uma almofada macia.
+Sessel -- Poltrona: Er saß in einem bequemen Sessel - Ele estava sentado em uma poltrona confortável.
+Gemeinschaftsraum -- Sala comum: Sie trafen sich im Gemeinschaftsraum - Eles se encontraram na sala comum.
+kitzelte, -- Cóssegas: Die Feder kitzelte ihn - A pena fez cócegas nele.
+Rüstungen -- Armaduras: Die Ritter trugen glänzende Rüstungen - Os cavaleiros usavam armaduras brilhantes.
+schafften -- Gerenciar, criar: Sie schafften es rechtzeitig - Eles conseguiram a tempo.
+Gewächshäusern -- Estufas: Sie bauten Pflanzen in Gewächshäusern an - Eles cultivavam plantas em estufas.
+züchtete -- Plantar: Sie züchtete Rosen in ihrem Garten - Ela cultivava rosas em seu jardim.
+Kaminfeuer -- Lareira: Sie saßen am warmen Kaminfeuer - Eles estavam sentados perto da lareira quente.
+stürzte -- Caiu: Er stürzte die Treppe hinunter - Ele caiu escada abaixo.
+Verwaltungen -- Administrações: Sie arbeitet in der Verwaltungen - Ela trabalha na administração.
+Streichholz -- Fósforo: Sie zündete das Streichholz an - Ela acendeu o fósforo.
+Nadel -- Agulha: Sie nähte mit Nadel und Faden - Ela costurou com agulha e linha.
+seltenes -- Raro: Das ist ein seltenes Exemplar - Este é um espécime raro.
+Knoblauch, -- Alho: Sie würzte das Essen mit Knoblauch - Ela temperou a comida com alho.
+befürchtete -- Temido: Er befürchtete das Schlimmste - Ele temia o pior.
+lief -- Correndo: Er lief so schnell er konnte - Ele correu o mais rápido que pôde.
+Vorsprung -- Vantagem: Er hatte einen deutlichen Vorsprung - Ele tinha uma vantagem clara.
+Haferbrei -- Mingau: Sie aß Haferbrei zum Frühstück - Ela comeu mingau no café da manhã.
+gewöhnt, -- Acostumado: Er ist daran gewöhnt, früh aufzustehen - Ele está acostumado a levantar cedo.
+Schreck -- Susto: Sie bekam einen großen Schreck - Ela levou um grande susto.
+knabberte -- Mordiscou: Sie knabberte an einem Keks - Ela mordiscou um biscoito.
+Teller -- Prato: Sie stellte den Teller auf den Tisch - Ela colocou o prato na mesa.
+Alben -- Álbum: Sie sah sich alte Foto Alben an - Ela viu álbuns de fotos antigos.
+Bedenken -- Preocupações: Sie hatte Bedenken, das zu tun - Ela tinha preocupações em fazer isso.
+Klinge -- Lâmina: Sie schärfte die Klinge des Messers - Ela afiou a lâmina da faca.
+Verließ -- Calabouço: Der Gefangene wurde ins Verließ gesperrt - O prisioneiro foi trancado no calabouço.
+verließen -- Deixar: Sie verließen das Haus - Eles deixaram a casa.
+zugehen -- Aproximar: Sie wollte auf ihn zugehen - Ela queria se aproximar dele.
+beschämen -- Envergonhar: Er versuchte, sie zu beschämen - Ele tentou envergonhá-la.
+Fackel -- Tocha: Sie trug eine Fackel - Ela carregava uma tocha.
+Fackeln -- Tochas: Die Wände waren mit Fackeln beleuchtet - As paredes foram iluminadas com tochas.
+beschuldigt -- Acusado: Er wurde des Diebstahls beschuldigt - Ele foi acusado de roubo.
+Wiese -- Prado: Sie lagen auf der Wiese - Eles estavam deitados no prado.
+Zaubertrank -- Poção mágica: Sie braute einen Zaubertrank - Ela preparou uma poção mágica.
+abnehmen -- Diminuir: Die Preise werden abnehmen - Os preços vão diminuir.
+Ernte -- Colheita: Sie feierten die Ernte - Eles celebraram a colheita.
+Ernten -- Colher: Sie halfen bei der Ernten - Eles ajudaram na colheita.
+Vorhersagen -- Previsões: Sie konnte die Zukunft Vorhersagen - Ela podia prever o futuro.
+schlaffen -- Flácido: Die Muskeln sind schlaffen - Os músculos estão flácidos.
+Eule -- Coruja: Die Eule saß im Baum - A coruja estava na árvore.
+klatschen -- Fofoca: Sie liebten es, zu klatschen - Eles amavam fofocar.
+Wüste -- Deserto: Sie reisten durch die Wüste - Eles viajaram pelo deserto.
+Riese -- Gigante: Er war ein Riese von einem Mann - Ele era um homem gigante.
+schrumpelig -- Enrugado: Sie hatte schrumpelig Hände - Ela tinha mãos enrugadas.
+einmischen -- Intrometer: Er versuchte, sich nicht einmischen - Ele tentou não se intrometer.
+schütteln -- Agitar: Sie musste die Flasche schütteln - Ela tinha que agitar a garrafa.
+wimmern -- Gemer: Der Hund wimmern - O cachorro está gemendo
+Mörder -- Assassino: Der Mörder wurde gefasst - O assassino foi pego.
+schnappen -- Agarrar: Sie versuchte, ihn zu schnappen - Ela tentou agarrá-lo.
+verstecken -- Esconder: Sie versuchte, sich zu verstecken - Ela tentou se esconder.
+beschuldigen -- Culpar: Sie versuchte, ihn zu beschuldigen - Ela tentou culpá-lo.
+zerbrechen -- Quebrar: Sie konnte die Vase zerbrechen - Ela pôde quebrar o vaso.
+zögern -- Hesitar: Sie durfte nicht zögern - Ela não pôde hesitar.
+Verbrechen -- Crime: Er hatte ein Verbrechen begangen - Ele cometeu um crime.
+Verzweiflung -- Desespero: Sie war voller Verzweiflung - Ela estava cheia de desespero.
+Furcht -- Medo: Sie sprach mit Furcht in der Stimme - Ela falou com medo na voz.
+Gänseblümchen -- Margarida: Sie pflückte ein Gänseblümchen - Ela colheu uma margarida.
+Erdrutsch -- Deslizamento de terra: Ein Erdrutsch hatte das Haus zerstört - Um deslizamento de terra destruiu a casa.
+erdrutschartig -- Deslizamento: Der Sieg war erdrutschartig - A vitória foi um deslizamento.
+schwindelig -- Tonto: Ihm wurde schwindelig - Ele ficou tonto.
+wackelig -- Instável: Der Tisch war wackelig - A mesa estava instável.
+unheimlich -- Assustador: Es war eine unheimlich Atmosphäre - Era uma atmosfera assustadora.
+Entsetzen -- Horror: Sie blickte mit Entsetzen - Ela encarou com horror.
+Übermut -- Arrogância: Er zeigte großen Übermut - Ele mostrou grande arrogância.
+erblicken -- Ver: Sie erblicken das Haus in der Ferne - Ela vê a casa ao longe.
+entziehen -- Retirar: Sie versuchte, ihm die Waffe zu entziehen - Ela tentou retirar a arma dele.
+eintreten -- Intervir: Er musste eintreten - Ele teve que intervir.
+vertraulich -- Confidencial: Sie sprachen vertraulich - Eles falaram confidencialmente.
+Ausrede -- Desculpa: Er suchte nach einer Ausrede - Ele estava procurando por uma desculpa.
+Abgrund -- Abismo: Sie stand am Abgrund - Ela estava à beira do abismo.
+betreten -- Envergonhado: Sie wirkte betreten - Ela parecia envergonhada.
+Widerlich -- Repugnante: Das war ein Widerlich Geruch - Isso era um cheiro repugnante.
+Überlegenheit -- Superioridade: Er zeigte seine Überlegenheit - Ele mostrou sua superioridade.
+sich wehren -- Defender-se: Sie versuchte, sich wehren - Ela tentou se defender.
+zutiefst -- Profundamente: Sie war zutiefst verletzt - Ela estava profundamente ferida.
+Mütze -- Boné: Er trug eine warme Mütze - Ele usava um boné quente.
+aufhängen -- Pendurar: Sie wollte das Bild aufhängen - Ela queria pendurar a foto.
+Erstaunt -- Maravilhado: Sie war Erstaunt von ihrer Schönheit - Ela ficou maravilhada com a beleza dela.
+Entzückt -- Encantado: Sie war Entzückt über die Nachricht - Ela estava encantada com a notícia.
+Ewig -- Eterno: Diese Liebe wird Ewig dauern - Este amor durará para sempre.
+Ewigkeiten -- Eternidades: Es dauerte Ewigkeiten, bis er antwortete - Demorou uma eternidade até ele responder.
+Beschimpfung -- Insulto: Sie ertrug die Beschimpfung - Ela suportou o insulto.
+Erbrechen -- Vômito: Er musste sich Erbrechen - Ele teve que vomitar.
+Vermuten -- Supor: Sie Vermuten etwas - Eles suspeitam de algo.
+Kicherte -- Rir baixo: Sie Kicherte - Ela deu uma risadinha.
+Geschrei -- Grito: Sie hörte ein lautes Geschrei - Ela ouviu um grito alto.
+Betrug -- Fraude: Er wurde wegen Betrug verurteilt - Ele foi condenado por fraude.
+Heimsuchung -- Aflição: Es ist ein Haus der Heimsuchung - É uma casa de aflição
+Gerissenheit -- Esperteza: Er plante mit Gerissenheit - Ele planejou com esperteza.
+Anstiften -- Instigar: Er versuchte, sie zum Diebstahl anzustiften - Ele tentou instigá-la a roubar.
+Verspotten -- Ridicularizar: Sie versuchten, ihn zu Verspotten - Eles tentaram ridicularizá-lo.
+Leckerli -- Guloseima: Sie gab dem Hund ein Leckerli - Ela deu um agrado ao cachorro.
+Schwelgen -- Deleitar-se: Sie schwelgten in Erinnerungen - Eles se deleitaram em memórias.
+Weigerte -- Recusar: Sie Weigerte sich zu gehen - Ela se recusou a ir.
+Verdorben -- Corrompido: Das Essen war Verdorben - A comida estava corrompida.
+Unglück -- Infeliz: Er hatte Unglück im Spiel - Ele teve má sorte no jogo.
+Unordnung -- Desordem: Das Zimmer war voller Unordnung - O quarto estava cheio de desordem.
+Schrubben -- Esfregar: Sie musste den Boden Schrubben - Ela tinha que esfregar o chão.
+Rauchwolke -- Nuvem de fumaça: Eine dicke Rauchwolke stieg auf - Uma grossa nuvem de fumaça subiu.
+Kneifen -- Beliscar: Er Kneifen sie in den Arm - Ele beliscou o braço dela.
+ausweiden -- Destripar: Sie musste den Fisch ausweiden - Ela tinha que destripar o peixe.
+verstimmt -- Indisposto: Sie war verstimmt - Ela estava indisposta.
+Spott -- Zombaria: Er sprach mit Spott - Ele falou com zombaria.
+Trotz -- Despeito: Er tat es aus Trotz - Ele fez isso por despeito.
+Fingerspitzen -- Pontas dos dedos: Sie berührte ihn mit ihren Fingerspitzen - Ela o tocou com as pontas dos dedos.
+aufschrecken -- Assustar: Sie konnte ihn nicht aufschrecken - Ela não conseguia assustá-lo.
+verbittert -- Amargurado: Er war ein verbittert alter Mann - Ele era um velho amargurado.
+Taktstock -- Baton: Der Dirigent hob den Taktstock - O maestro levantou o bastão.
+Smaragd -- Esmeralda: Sie trug einen Smaragd - Ela usava uma esmeralda.
+ausgepeitscht -- Açoitado: Er war ausgepeitscht - Ele foi açoitado.
+Geheul -- Uivo: Sie hörten ein Geheul - Eles ouviram um uivo.
+Spuk -- Assombração: Es gab einen Spuk - Havia uma assombração.
+gespenstisch -- Fantasmagórico: Die Atmosphäre war gespenstisch - A atmosfera era fantasmagórica.
+spuken -- Assombrar: Es soll in dem Haus spuken - Dizem que a casa é assombrada.
+verurteilen -- Condenar: Das Gericht wird den Täter verurteilen - O tribunal irá condenar o perpetrador.
+starrten -- Olhar fixamente: Alle starrten sie an - Todos a encaravam fixamente.
+vornehm -- Elegante: Sie trug ein vornehm Kleid - Ela usava um vestido elegante.
+Geheimniskrämerei -- Sigilo: Diese Geheimniskrämerei nervt - Esse segredo está me irritando.
+Spinnweben -- Teias de aranha: Überall hingen Spinnweben - Havia teias de aranha penduradas por toda parte.
+herumlungern -- Vagar: Sie herumlungern den ganzen Tag - Eles vagam o dia todo.
+entfernen -- Remover: Sie versuchte, den Fleck zu entfernen - Ela tentou remover a mancha.
+Beseitigen -- Remover: Wir müssen die Hindernisse beseitigen - Temos que remover as obstruções.
+Eckzahn -- Canino: Der Hund zeigte seine Eckzähne - O cachorro mostrou seus caninos.
+knapp -- Escasso: Die Zeit war knapp - O tempo era escasso.
+geheuer -- Confortável, tranquilo: Die Situation ist mir nicht geheuer - A situação não é confortável para mim.
+überkochen -- Transbordar: Die Milch drohte zu überkochen - O leite ameaçava transbordar.
+enttäuschen -- Decepcionar: Sie wollte ihn nicht enttäuschen - Ela não queria decepcioná-lo.
+Gelee -- Gelatina: Sie machte Gelee für das Frühstück - Ela fez gelatina para o café da manhã.
+Kichern -- Rir baixo: Sie unterdrückte ein Kichern - Ela reprimiu uma risadinha.
+herumliegen -- Vagar: Sie ließ die Bücher herumliegen - Ela deixou os livros jogados por toda parte.
+Sturm -- Tempestade: Der Sturm tobte draußen - A tempestade rugia lá fora.
+Finsternis -- Trevas: Die Finsternis umfing sie - As trevas a envolveram.
+Krachen -- Ruído: Es gab ein lautes Krachen - Houve um barulho alto.
+knallen -- Bater: Die Tür knallte zu - A porta bateu.
+Verknacksen -- Torcer: Sie hat sich den Knöchel verknacksen - Ela torceu o tornozelo.
+Ekel -- Nojo: Er empfand Ekel - Ele sentiu nojo.
+verabscheuen -- Detestar: Sie verabscheuen Lügen - Eles detestam mentiras.
+vernehmen -- Ouvir: Sie konnte Stimmen vernehmen - Ela podia ouvir vozes.
+Gefahr -- Perigo: Sie befanden sich in großer Gefahr - Eles estavam em grande perigo.
+Tücke -- Malícia: Er erkannte die Tücke der Situation - Ele reconheceu a malícia da situação.
+Rettung -- Salvação: Die Rettung kam in letzter Minute - A salvação veio no último minuto.
+knurren -- Rosnar: Der Hund begann zu knurren - O cachorro começou a rosnar.
+stibitzen -- Roubar: Er versuchte, ihr das Portemonnaie zu stibitzen - Ele tentou roubar a carteira dela.
+Aufforderung -- Convite: Sie erhielt eine Aufforderung zur Hochzeit - Ela recebeu um convite para o casamento.
+Auskundschaften -- Reconhecer: Sie mussten das Gebiet auskundschaften - Eles tinham que reconhecer a área.
+abbrechen -- Cancelar: Sie mussten die Reise abbrechen - Eles tiveram que cancelar a viagem.
+Schauer -- Arrepio: Es lief ihr ein Schauer über den Rücken - Um arrepio percorreu suas costas.
+Wahl -- Escolha: Sie hatte die freie Wahl - Ela tinha a escolha livre.
+Flucht -- Fuga: Sie ergriffen die Flucht - Eles fugiram.
+Wunde -- Ferida: Die Wunde heilte langsam - A ferida cicatrizava lentamente.
+Beweis -- Evidência: Sie suchten nach Beweis für seine Schuld - Eles procuravam por evidências de sua culpa.
+Stöhnen -- Gemido: Er ließ ein leises Stöhnen hören - Ele deixou escapar um gemido baixo.
+Rauch -- Fumaça: Dicker Rauch stieg auf - Uma densa fumaça subiu.
+erfinden -- Inventar: Sie versuchte, eine Geschichte zu erfinden - Ela tentou inventar uma história.
+entmutigen -- Desencorajar: Sie ließ sich nicht entmutigen - Ela não se deixou desencorajar.
+schmal -- Estreito: Der Weg war sehr schmal - O caminho era muito estreito.
+Dämmerung -- Crepúsculo: In der Dämmerung wurde es still - No crepúsculo ficou silencioso.
+Spitze -- Renda: Das Kleid hatte eine Spitze - O vestido tinha renda.
+Seifenblasen -- Bolhas de sabão: Die Kinder machten Seifenblasen - As crianças faziam bolhas de sabão.
+Berührung -- Toque: Sie spürte eine leichte Berührung - Ela sentiu um leve toque.
+Körben -- Cestas: Sie trugen Äpfel in Körben - Eles carregavam maçãs em cestas.
+Verwandeln -- Transformar: Sie kann sich in ein Tier Verwandeln - Ela pode se transformar em um animal.
+Rennen -- Corrida: Sie gewann das Rennen - Ela venceu a corrida.
+Klinke -- Maçaneta: Sie drückte die Klinke herunter - Ela abaixou a maçaneta.
+Ahnung -- Pressentimento: Sie hatte eine schlimme Ahnung - Ela teve um mau pressentimento.
+Tatsächlich -- Na verdade: Das ist Tatsächlich passiert - Isso realmente aconteceu.
+Laune -- Humor: Sie war schlechter Laune - Ela estava de mau humor.
+Aufwand -- Esforço: Der Aufwand war enorm - O esforço foi enorme.
+wertvoll -- Valioso: Das ist ein wertvoll Geschenk - Este é um presente valioso.
+geringste -- Mínima: Nicht die geringste Spur - Não a menor pista.
+aufdringliche -- Intrusiva: Sie war aufdringliche - Ela era intrusiva.
+versprechen -- Prometer: Er konnte es ihr nicht versprechen - Ele não pôde prometer isso a ela.
+Vorsatz -- Intenção: Er hatte einen guten Vorsatz - Ele tinha uma boa intenção.
+Absetzen -- Detener: Die Polizei wird ihn Absetzen - A polícia vai prendê-lo.
+Ankündigung -- Anúncio: Sie machten eine wichtige Ankündigung - Eles fizeram um anúncio importante.
+Gerüchte -- Rumores: Es kursierten viele Gerüchte - Havia muitos rumores circulando.
+Anständig -- Decente: Sie war ein Anständig Mensch - Ela era uma pessoa decente.
+Sklave -- Escravo: Er wurde zum Sklave gemacht - Ele foi feito escravo.
+behaupten -- Afirmar: Er behaupten, unschuldig zu sein - Ele afirma ser inocente.
+abwesend -- Ausente: Sie war abwesend - Ela estava ausente.
+Verschwenden -- Desperdiçar: Sie durften keine Zeit Verschwenden - Eles não deveriam desperdiçar tempo.
+Verbindung -- Conexão: Sie brauchten eine Verbindung zum Internet - Eles precisavam de uma conexão com a internet.
+Verschwinden -- Desaparecer: Er sah ihn im Wald Verschwinden - Ele o viu desaparecer na floresta.
+entschuldigen -- Desculpar: Sie versuchte, sich zu entschuldigen - Ela tentou se desculpar.
+aussetzen -- Abandonar: Sie durften das Tier nicht aussetzen - Eles não deveriam abandonar o animal.
+vermissen -- Sentir falta: Ich werde dich vermissen - Vou sentir sua falta.
+Aufnehmen -- Gravar: Sie versuchten, das Gespräch Aufnehmen - Eles tentaram gravar a conversa.
+Gefährlich -- Perigoso: Es war Gefährlich - Era perigoso.
+Ungerecht -- Injusto: Das ist Ungerecht - Isso é injusto.
+Zulassen -- Permitir: Er konnte es nicht Zulassen - Ele não podia permitir isso.
+Verrückt -- Louco: Er war Verrückt - Ele era louco.
+vertrauen -- Confiar: Sie konnte ihm nicht vertrauen - Ela não podia confiar nele.
+Verschonen -- Poupar: Sie sollte ihn Verschonen - Ela deveria poupá-lo.
+Sorge -- Preocupação: Sie hatte große Sorge - Ela estava muito preocupada.
+wunderbar -- Maravilhoso: Das war ein wunderbar Tag - Esse foi um dia maravilhoso.
+sorgen -- Cuidar: Sie musste für ihre Familie sorgen - Ela tinha que cuidar de sua família.
+Entscheidung -- Decisão: Das war eine schwere Entscheidung - Essa foi uma decisão difícil.
+während -- Enquanto: Sie las, während er arbeitete - Ela lia enquanto ele trabalhava.
+bewundern -- Admirar: Sie konnte ihn nur bewundern - Ela só podia admirá-lo.
+abgesehen -- Além disso: abgesehen davon ist es zu spät - Além disso, é muito tarde.
+übersehen -- Ignorar: Sie konnte den Fehler nicht übersehen - Ela não podia ignorar o erro.
+verhindern -- Evitar: Sie versuchten, das zu verhindern - Eles tentaram evitar isso.
+versuchen -- Tentar: Sie versuchte, zu helfen - Ela tentou ajudar.
+Anfeuern -- Animar: Sie versuchten, das Team Anfeuern - Eles tentaram animar a equipe.
+verantwortlich -- Responsável: Er war verantwortlich für den Unfall - Ele foi o responsável pelo acidente.
+betrachten -- Olhar: Sie konnte die Situation betrachten - Ela pôde contemplar a situação.
+überzeugen -- Convencer: Sie versuchte, ihn zu überzeugen - Ela tentou convencê-lo.
+Beziehung -- Relacionamento: Sie hatten eine komplizierte Beziehung - Eles tinham um relacionamento complicado.
+gehören -- Pertencer: Das Buch gehört ihm - O livro pertence a ele.
+entdecken -- Descobrir: Sie versuchte, das Geheimnis zu entdecken - Ela tentou descobrir o segredo.
+bestätigen -- Confirmar: Er konnte die Geschichte bestätigen - Ele pôde confirmar a história.
+beschützen -- Proteger: Sie versuchte, ihn zu beschützen - Ela tentou protegê-lo.
+unglaublich -- Incrível: Das war unglaublich - Isso foi incrível.
+aussprechen -- Pronunciar: Sie konnte das Wort nicht aussprechen - Ela não conseguia pronunciar a palavra.
+Scham -- Vergonha: Sie empfand tiefe Scham - Ela sentiu profunda vergonha.
+Untersuchung -- Investigação: Die Polizei begann eine Untersuchung - A polícia começou uma investigação.
+Nachzugrübeln -- Refletir: Sie beginnt zu Nachzugrübeln - Ela começou a refletir
+Kräuterkunde -- Herbalismo: Sie hat große Interesse an Kräuterkunde - Ela tinha grande interesse em herbalismo
+Gestraft -- Castigado: Er wurde zu Tode Gestraft - Ele foi castigado ate a morte
+Mullbinden -- Ataduras de gaze: Sie brauchte Mullbinden um ihre Wunde zu verbinden - Ela precisava de ataduras para cobrir suas feridas
+Fingernägel -- Unhas: Sie hatte lange Fingernägel - Ela tem unhas compridas
+Gewächshaus -- Estufa: Sie baute Gewürz im Gewächshaus - Ela plantou tempero na estufa
+Gemurmel -- Murmúrio: Sie konnte nur ein Gemurmel verstehen - Ela só pode entender um murmúrio
+Gürtel -- Cinto: Er trug ein Gürtel - Ele usava um cinto
+Dünger -- Fertilizante: Sie brauchen Dünger - Eles precisam de fertilizante
+Verdutzt -- Atordoado: Sie war Verdutzt - Ela ficou atordoada
+Ohrfeigen -- Tapa no ouvido: Sie hatte Ohrfeigen - Ela tapou o ouvido
+Erschrocken -- Assustado: Sie war Erschrocken - Ela estava assustada
+Geschmack -- Gosto: Sie hatte kein Geschmack - Ela não tinha gosto
+Vorwürfe -- Acusar: Hör auf mit deinen Vorwürfe - Pare de me acusar
+Derlei -- Tal: Ich hatte noch nie Derlei - Nunca tive tal coisa
+Immerhin -- De qualquer forma: Immerhin sind wir frei - De qualquer forma nós estamos livres
+Auszeichnungen -- Prêmios: Sie hat viele Auszeichnungen erhalten - Ela recebeu muitos prêmios
+Ohrschützer -- Protetor de ouvido: Sie brauchte Ohrschützer - Ela precisava de protetor de ouvido
+Ursprünglichen -- Original: Ich brauche die Ursprünglichen Idee - Eu preciso da ideia original
+Zustand -- Forma: Das ist ein schlechter Zustand - Esta em uma forma ruim
+Glänzend -- Brilhante: Sie trug ein Glänzend Kleid - Ela estava usando um vestido brilhante
+Wesentlichen -- Essencial: Das ist Wesentlichen - Isto é essencial
+Bestandteil -- Componente: Das ist ein wichtiger Bestandteil - Este é um componente importante
+Deutete -- Apontar: Sie Deutete auf den Boden - Ela apontou para o chão
+Reihe -- Fileira: Sie stand in der Reihe - Ela estava de pé na fileira
+Flauschig -- Fofo: Sie trug ein Flauschig Kleid - Ela usava uma roupa fofa
+Entfuhr -- Escapou: Sie ist die Polizei Entfuhr - Ela escapou da polícia
+Setzlinge -- Mudas: Sie brauchte Setzlinge - Ela precisava de mudas
+Außer Gefecht -- Fora de ação: Er ist Außer Gefecht - Ele está fora de ação
+Mutiger -- Corajoso: Sie war Mutiger als du - Ela era mais corajosa que você
+Kerl -- Cara: Er ist ein netter Kerl - Ele é um cara legal
+Spitzen -- Pontas: Er hat Spitzen Zähne - Ele tem dentes pontiagudos
+Knirschten -- Ranger: Sie sah ihren Knirschten Kiefer - Ela viu sua mandíbula rangendo
+Wuschen sich rasch -- Lavar-se rapidamente: Sie Wuschen sich rasch damit sie früh raus sind - Elas se lavarão rapidamente para sair cedo
+Knopf -- Botão: Sie drückte auf dem Knopf - Ela apertou o botão
+Geflickt -- Remendar: Sie musste ihr Bett Geflickt - Ela teve que remendar sua cama
+Beschädigt -- Avariado: Es war total Beschädigt - Estava totalmente avariado
+Zerquetschte -- Esmagar: Sie Zerquetschte es mit ihrern Fäusten - Ela esmagou com seus punhos
+Ellbogen -- Cotovelo: Sie traf ihn mit dem Ellbogen - Ela o acertou com o cotovelo
+Schwamm -- Esponja: Sie brauchte ein Schwamm - Ela precisava de uma esponja
+Stufe -- Passo: Sie war einen Stufe höher - Ela está a um passo acima
+Bann -- Feitiço: Sie brach den Bann - Ela quebrou o feitiço
+Grobschlächtigen -- Grosseiro: Sie hatte ein Grobschlächtigen Art - Ela tinha um jeito grosseiro
+Spießgesellen -- Companheiros: Sie war Spießgesellen mit ein Mann - Ela era companheira com um cara
+Drohend -- Ameaçador: Sie war Drohend - Ela estava ameaçando
+Schlug -- Bater: Sie Schlug ihn - Ela bateu nele
+Angebot -- Oferta: Sie hat ein super Angebot - Ela tinha uma super oferta
+Rampenlicht -- Spotlight: Sie stand im Rampenlicht - Ela estava no spotlight
+Übertrieben -- Exagerado: Es war Übertrieben - Foi exagerado
+Zupfte -- Ajustar: Sie Zupfte es - Ela ajustou
+Leibhaftigen -- Em carne e osso: Er sah es Leibhaftigen - Ele viu em carne e osso
+Braten -- Assar: Sie hat den Braten - Ela assou o prato
+Blatt -- Folha: Sie brauchte ein Blatt - Ela precisava de uma folha
+Ungläubiger -- Inacreditável: Sie war Ungläubiger - Ela era inacreditável
+Tuchbedeckten -- Coberto com um pano: Sie versteckte es mit einen Tuchbedeckten - Ela escondeu isso com um pano
+Geschöpfe -- Criatura: Es war ein Geschöpfe - Era uma criatura
+Abdeckung -- Cobertura: Sie hatte nur eine Abdeckung - Ela tinha apenas uma cobertura
+Reizen -- Irritar: Sie Reizen ihn - Ela irritou ele
+Gefangene -- Prisioneira: Sie war ihr Gefangene - Ela era prisioneira dela
+Wichtel -- Duende: Sie war nur ein Wichtel - Ela era só um duende
+Verwechseln -- Confundir: Sie Verwechseln die Zwei - Ela confundiu as duas
+Rüttelten -- Sacudir: Sie Rüttelten es so fest sie konnten - Elas sacudiram isso forte quanto podiam
+Glassplittern -- Caco de vidro: Sie hatte überall Glassplittern - Ela tinha cacos de vidro por toda parte
+Sperren -- Trancar: Sie mussten es Sperren - Eles tinham que trancar
+Angeblich -- Supostamente: Es war Angeblich so - Era supostamente assim
+Übertraf -- Superar: Sie Übertraf alle - Ela superou todos
+Beule -- Galo: Sie hat ein Beule bekommen - Ela ganhou um galo
+Geschultertem -- No ombro: Sie trug es Geschultertem - Ela estava carregando isso no ombro
+Getrappel -- Barulho: Sie konnte das Getrappel hören - Ela conseguiu ouvir o barulho
+Entwickeln lassen -- Desenvolver: Sie wollte es Entwickeln lassen - Ela queria deixar para desenvolver
+Zerrte -- Puxão: Sie gab ihr ein Zerrte - Ela deu um puxão nela
+Schmeichelnd -- Lisonjeador: Sie war Schmeichelnd - Ela estava lisonjeando
+Hab's eilig -- Tenho pressa: Ich Hab's eilig - Eu tenho pressa
+Redseligen -- Falador: Sie hasste den Redseligen - Ela odiou o falador
+Stolperte -- Tropeçar: Sie Stolperte - Ela tropeçou
+Stangen -- Barres: Sie brauchte neue Stangen - Ela precisava de novas barras
+Ehrfurchtsvoll -- Reverente: Sie war Ehrfurchtsvoll - Ela estava reverente
+Geschwollenen -- Inchar: Sie konnte ihren Geschwollenen Mund nicht bewegen - Ela não conseguia mexer sua boca inchada
+Gähnten -- Bocejar: Sie begann zu Gähnten - Ela começou a bocejar
+Krabbeln -- Engatinhar: Sie lies ihr Kind Krabbeln - Ela deixou sua criança engatinhar
+Raupen -- Largatas: Sie hatten Raupen überall - Eles tinham largatas por todo lugar
+Vortrag -- Palestra: Sie musste eine Vortrag über das halten - Ela teve que fazer uma palestra sobre isso
+Ereignissen -- Eventos: Sie konnte sich an die Ereignissen erinnern - Ela conseguia se lembrar dos eventos
+Niederlage -- Derrota: Es war ihre Niederlage - Essa foi a derrota dela
+Morgennebels -- Névoa matinal: Das war Morgennebels - Era a névoa matinal
+Lebensgeister -- Espírito: Sie hat ihren Lebensgeister zurück bekommen - Ela conseguiu seu espírito de volta
+Karacho -- Velocidade: Sie war mit voller Karacho darauf gefahren - Ela tinha ido com toda velocidade naquilo
+Notwendigkeit -- Necessidade: Es gab eine Notwendigkeit dafür - Houve uma necessidade por isso
+Stämmigen -- Forte: Sie hatte eine Stämmigen Art zu reden - Ela tinha uma maneira forte de falar
+Erwähnst -- Mencionou: Es wurde niemals Erwähnst - Nunca foi mencionado
+Johlen -- Vibrar: Sie konnte es nicht Johlen - Ela não podia vibrar
+Kreischte -- Gritar: Sie begann zu Kreischte - Ela começou a gritar
+Magen -- Estômago: Sie hatte schmertzen in ihrem Magen - Ela tinha dores em seu estômago
+Schnecken -- Caracóis: Sie ekelte sich vor Schnecken - Ela estava enojada com caracóis
+Lag auf allen Vieren -- Estar de quatro: Sie Lag auf allen Vieren - Ela estava de quatro
+Missmutig -- Desagradável: Sie hatte ein Missmutig Art - Ela tinha um jeito desagradável
+Sonderlich -- Particularmente: Sie hatte kein Sonderlich Interesse daran - Ela não tinha particularmente interesse naquilo
+Wanne -- Banheira: Sie nahm ein Bad in einer Wanne - Ela tomou um banho na banheira
+Sabberte -- Babar: Sie Sabberte alles voll - Ela estava babando tudo
+Beraten -- Aconselhar: Sie versuchte sie zu Beraten - Ela tentou a aconselhar
+Angegeben -- Se Gabar: Sie Angegeben damit - Ela se gabou com isso
+Beschimpft -- Xinga: Sie Beschimpft - Ela xingou
+Heiser -- Rouca: Sie hatte ein Heiser Stimme - Ela tinha uma voz rouca
+Verklebt -- Coladas: Sie hatte Verklebt - Ela tinha coladas
+Behauptet -- Alega: Sie Behauptet es zu wissen - Ela alega saber
+Kinn -- Queixo: Sie hatte ein rundes Kinn - Ela tinha um queixo redondo
+Knallte -- Bateu: Sie Knallte die Tür zu - Ela bateu a porta
+Kürbisse -- Abóboras: Sie hatte Kürbisse gekauft - Ela comprou abóboras
+Ausdrücklich -- Explicitamente: Sie hatte es Ausdrücklich gesagt - Ela disse isso explicitamente
+Trübselig -- Miserável: Sie war so Trübselig - Ela estava tão miserável
+Taugenichts -- Inútil: Sie war ein Taugenichts - Ela era uma inútil
+Zahllose -- Incontável: Sie hatte Zahllose Freunde - Ela tinha incontável amigos
+Gunst -- Favor: Sie hatte ihr Gunst getan - Ela tinha feito um favor para ela
+Knochenmark -- Medula óssea: Sie brauchte ihre Knochenmark - Ela precisava da sua medula óssea
+Zerfetzen -- Despedaçar: Sie würde die Zerfetzen - Ela despedaçaria eles
+Fleck -- Mancha: Da ist ein Fleck - Existe uma mancha
+Schlafanzug -- Pijama: Sie trug ein Schlafanzug - Ela usava um pijama
+Jähe -- Repentina: Es war so Jähe - Era tão repentino
+Quollen -- Inchado: Ihr Mund Quollen - A boca dela inchou
+Gelungenes -- Bem-sucedido: Sie haben ein Gelungenes Spiel - Eles tiveram um jogo bem-sucedido
+Ausgespäht -- Espiado: Sie war Ausgespäht worden - Ela foi espiada
+Bewerbe -- Inscrever-se: Sie sollte dich Bewerbe - Ela deveria inscrever você
+Geköpfter -- Decapitado: Der Geköpfter Leiche - O corpo decapitado
+Endlosen -- Sem fim: Das war ein Endlosen Geschichte - Essa era uma história sem fim
+Schnupfen -- Resfriado: Sie hatte ein Schnupfen - Ela estava resfriada
+Schlamm -- Lama: Sie hatte Schlamm an ihren Händen - Ela tinha lama em suas mãos
+Fußabdrücke -- Pegadas: Sie folgte ihre Fußabdrücke - Ela seguiu suas pegadas
+Niedrigen -- Baixo: Sie war in Niedrigen Umständen - Ela estava em baixos circunstâncias
+Aktenschränke -- Armários de arquivo: Sie warf es auf die Aktenschränke - Ela jogou isso nos armários de arquivo
+Stöbern -- Vasculhar: Sie begann darin zu Stöbern - Ela começou a vasculhar lá
+Fersen -- Calcanhares: Sie trug hohe Fersen - Ela usava saltos altos
+Anschluss -- Conexão: Da ist kein Anschluss - Não tem conexão
+Entwickelter -- Desenvolvido: Es war ein Entwickelter - Era desenvolvido
+Wappnete sich -- Preparou-se: Sie Wappnete sich für den Kampf - Ela se preparou para a luta
+Beschimpfungen -- Insultos: Sie ertrug der Beschimpfungen - Ela suportou os insultos
+Fassungslos -- Atordoada: Sie war Fassungslos - Ela estava atordoada
+Ablenken -- Distrair: Sie wollte dich damit Ablenken - Ela queria distrair você com isso
+Bereute -- Arrependeu: Sie Bereute es - Ela se arrependeu
+Geräumigeren -- Mais espaçosa: Sie wollte ein Geräumigeren - Ela queria mais espaçosa
+Hälfte -- Metade: Sie hatte nur die Hälfte genommen - Ela só tinha tomado a metade
+Im Umkreis -- Dentro da área: Sie war Im Umkreis davon - Ela estava na área
+Unterhaltung -- Entretenimento: Das war nur Unterhaltung - Isso era só entretenimento
+Umsehen -- Olhar ao redor: Sie sollte sich Umsehen - Ela deveria olhar ao redor
+Umdrehen -- Virar: Sie musste sich Umdrehen - Ela tinha que se virar
+Maulenden -- Murmurando: Sie war Maulenden - Ela estava murmurando
+Jammert -- Lamentar: Sie Jammert darüber - Ela está lamentando sobre isso
+Verdorbene -- Estava Podre: Das Essen war Verdorbene - A comida estava podre
+Grabsteins -- Lápide: Das war eine Grabsteins - Essa era uma lápide
+Fülliger -- Gordinho: Sie war etwas Fülliger geworden - Ela tinha ficado um pouco mais gordinha
+Beinahe -- Quase: Sie war Beinahe gestorben - Ela tinha quase morrido
+Begutachten -- Examinar: Sie musste es Begutachten - Ela tinha que examinar isso
+Blass -- Pálido: Sie wurde ganz Blass - Ela ficou toda pálida
+Durchscheinend -- Transparente: Sie wirkte so Durchscheinend - Ela parecia transparente
+Knabbern -- Mordiscar: Sie lies ihn daran Knabbern - Ela deixou ele mordiscar aquilo
+Bot -- Oferecer: Sie Bot ihr alles an - Ela ofereceu tudo para ela
+Unverschämte -- Insolente: Sie war sehr Unverschämte - Ela era muito insolente
+Plumpen -- Grosso: Sie hatte ein Plumpen Ton - Ela tinha um tom grosso
+Trübseligste -- Mais triste: Sie hatte ein Trübseligste Tag - Ela teve o dia mais triste
+Mischung -- Mistura: Das war eine komische Mischung - Essa era uma mistura estranha
+Erregung -- Excitada: Sie wurde total Erregung - Ela ficou totalmente excitada
+Leuchtete -- Iluminada: Ihr Augen Leuchtete - Os olhos dela iluminaram
+Wasserlache -- Poça d'água: Sie stand in einer Wasserlache - Ela estava de pé em uma poça d'água
+Hausmeisters -- Zelador: Das war der Hausmeisters Hund - Este era o cachorro do zelador
+Dröhnen -- Zumbido: Sie konnte ein Dröhnen hören - Ela conseguia ouvir um zumbido
+Einschätzungen -- Estimativas: Sie hatte falsche Einschätzungen gemacht - Ela tinha feito estimativas erradas
+fähig -- Capaz: Sie war nicht fähig es zu tun - Ela não era capaz de fazer isso
+verdächtigen -- Suspeito: Sie haben mich verdächtigen - Elas me suspeitaram
+Umständen -- Circunstâncias: Sie war in Schlechten Umständen - Ela estava em más circunstâncias
+verkündete -- Anunciou: Sie verkündete es - Ela anunciou isso
+Gewisse -- Certos: Sie hatte Gewisse Ähnlichkeit damit - Ela tinha certas semelhanças com isso
+Vergünstigungen -- Privilégios: Sie hatte spezielle Vergünstigungen - Ela tinha privilégios especiais
+Bestrafung -- Punição: Sie sorgte für ihre Bestrafung - Ela cuidou da punição deles
+Schicksal -- Destino: Es war ihr Schicksal - Era o destino dela
+Wirkung -- Efeito: Das hatte einen negativen Wirkung auf sie - Isso tinha um efeito negativo nela
+Kehrtmachte -- Inverter: Sie Kehrtmachte das - Ela inverteu isso
+Verfolgung -- Perseguição: Sie entkommen ihrer Verfolgung - Ela escapou da perseguição
+Auslesen -- Selecionado: Sie würde die besten Auslesen - Ela selecionaria os melhores
+Zuverlässige -- Confiável: Sie war sehr Zuverlässige - Ela era muito confiável
+Dieser zufolge -- De acordo com este: Dieser zufolge gibt es nichts - De acordo com isto não tem nada
+Säubern -- Limpar: Sie muss das Säubern - Ela tem que limpar isso
+Stimmung -- Humor: Sie war in keiner Stimmung dafür - Ela não estava no humor pra isso
+Mär -- Contos: Das war alles nur ein Mär - Tudo era só um conto
+Seil -- Corda: Sie brauchte ein Seil - Ela precisava de uma corda
+Abstand -- Distância: Sie nahm Abstand von ihn - Ela tomou distância dele
+Pickel -- Espinha: Sie hatte ein Pickel bekommen - Ela tinha ganhado uma espinha
+Kleckse -- Mancha: Da ist ein Kleckse drauf - Tem uma mancha nisso
+Nachfahren -- Descendentes: Sie war eine ihre Nachfahren - Ela era uma descendente dela
+Abteilung -- Seção: Sie musste in der Abteilung arbeiten - Ela tinha que trabalhar na seção
+Besessene -- Possuídos: Sie waren Besessene Dämonen - Eles eram demônios possuídos
+Wirksam -- Eficaz: Das ist Wirksam - Isso é eficaz
+Geier -- Abutre: Es war ein Geier - Era um abutre
+Überredest -- Convencido: Sie hat ihn Überredest - Ela tinha convencido ele
+Erwartungsdruck -- Pressão de Expectativa: Sie war total unter Erwartungsdruck - Ela estava debaixo total pressão de expectativa
+Auszeit -- Intervalo: Sie brauchte eine Auszeit - Ela precisava de um intervalo
+Quälenden -- Torturante: Das war Quälenden - Isso estava torturante
+Betäubten -- Atordoada: Sie waren alle Betäubten worden - Elas foram todas atordoadas
+Spritzte auf -- Salpicado: Es Spritzte auf ihre Hände - Salpicou nas mãos dela
+Zusammenflicken -- Remendar: Sie musste es Zusammenflicken - Ela tinha que remendar isso
+Unfähige -- Incapaz: Sie war Unfähige es zu tun - Ela era incapaz de fazer isso
+Jäh -- Improvisto: Es war eine Jäh Entscheidung - Era uma decisão repentina
+Abtupfte -- Limpou: Sie Abtupfte es ab - Ela limpou isso
+Taschentuch -- Lenço: Sie wischte sich die Tränen mit einem Taschentuch ab - Ela enxugou as lágrimas com um lenço.
+Verbundene -- Enfaixado: Er hatte ein Verbundene Hand - Ele tinha a mão enfaixada.
+Tracht Prügel -- Surra: Er hat eine Tracht Prügel bekommen - Ele levou uma surra.
+Todesdrohungen -- Ameaças de morte: Er erhielt Todesdrohungen - Ele recebeu ameaças de morte.
+Drohen -- Ameaçar: Sie versuchte, ihn zu Drohen - Ela tentou ameaçá-lo.
+zuschleichen -- Esgueirar-se: Er versuchte, sich an sie zuschleichen - Ele tentou se esgueirar até ela.
+geschmolzen -- Derretido: Das Eis war geschmolzen - O gelo estava derretido.
+versperrte -- Bloquear: Er versperrte ihr den Weg - Ele bloqueou o caminho dela.
+spähen -- Espiar: Sie spähen durch das Fenster - Eles espiam pela janela.
+erschreckt -- Assustar: Sie versuchte, ihn zu erschreckt - Ela tentou assustá-lo.
+hoben -- Levantar: Sie hoben die Kiste hoch - Eles levantaram a caixa.
+riechende -- Fedorenta: Sie machte ein riechende Geräusch - Ela fez um barulho fedorento
+Zwiebel -- Cebola: Sie schnitt eine Zwiebel - Ela cortou uma cebola.
+Ablenkungsmanöver -- Manobra de distração: Das war ein Ablenkungsmanöver - Aquilo foi uma manobra de distração.
+blähen -- Inchar: Es würde sie blähen - Iria inchar ela.
+schwarze Brett -- Quadro de avisos: Sie schaute auf dem schwarze Brett - Ela olhou no quadro de avisos.
+Bühne -- Palco: Sie ging auf die Bühne - Ela subiu ao palco.
+verhindert -- Impedido: Sie verhindert mich davon - Ela me impediu daquilo
+entwaffnen -- Desarmar: Sie versucht ihn zu entwaffnen - Ela tenta desarmar ele
+Schlachtfeld -- Campo de batalha: Es war wie ein Schlachtfeld hier - Era como um campo de batalha aqui
+Schwitzkasten -- Gravata: Er nahm ihn in den Schwitzkasten - Ele o pegou na gravata.
+Verheerungen -- Devastação: Sie hat viele Verheerungen angerichtet - Ela causou muita devastação.
+hämischen -- Malicioso: Sie gab ihm einen hämischen Blick - Ela deu a ele um olhar malicioso.
+überhitzt -- Sobrecalentar: Sie war überhitzt - Ela tinha sobrecalentado
+Kreis -- Círculo: Sie saßen im Kreis - Eles estavam sentados em círculo.
+berechnend -- Calculista: Sie war berechnend - Ela era calculista.
+Angelegenheit -- Assunto: Das ist eine private Angelegenheit - Isso é um assunto particular.
+verbirgt -- Esconder: Sie verbirgt etwas vor mir - Ela está escondendo algo de mim.
+Entweder -- Ou: Entweder du kommst mit, oder ich gehe allein - Ou você vem comigo, ou eu vou sozinho.
+Verwandlung -- Transformação: Das ist eine Verwandlung - Isto é uma transformação
+gestolpert -- Tropeçar: Sie gestolpert - Ela tropeçou
+durchsichtig -- Transparente: Sie versuchte es durchsichtig machen - Ela tentou fazer transparente
+Geiers -- Abutre: Es war ein Geiers im Himmel - Tinha um abutre no céu
+gerupfter -- Depenado: Die Ente war total gerupfter - O pato tinha totalmente depenado
+Ein Jammer -- Uma pena: Es ist Ein Jammer das es so gekommen ist - É uma pena que chegou assim
+Auftritte -- Aparência: Sie musste ihre Auftritte verbessern - Ela teve que melhorar sua aparência
+Überzeugung -- Convicção: Sie hatte eine feste Überzeugung - Ela tinha uma convicção firme.
+Zahnstocher -- Palito de dente: Sie benutzte einen Zahnstocher - Ela usou um palito de dente.
+prächtigen -- Magnífica: Sie trug eine prächtigen Kleid - Ela usava uma roupa magnífica
+Waschpulver -- Sabão em pó: Sie brauchte ein Waschpulver - Ela precisava de um sabão em pó
+gierig -- Ganancioso: Er war gierig nach Macht - Ele era ganancioso por poder.
+Vermutung -- Suposição: Ich habe eine Vermutung - Eu tenho uma suposição.
+reglos -- Imóvel: Sie lag reglos am Boden - Ela estava imóvel no chão.
+das bringt das Fass zum Überlaufen -- É a gota d'água: Aber das bringt das Fass zum Überlaufen! - Mas isso é a gota d'água!
+Abflussrohr -- Cano de esgoto: Sie fiel ins Abflussrohr - Ela caiu no cano de esgoto
+Einband -- Capa: Das Buch hatte einen schönen Einband - O livro tinha uma bela capa.
+verborgene -- Escondido: Sie hatte verborgene Eigenschaften - Ela tinha propriedades escondidas
+gefangen -- Capturado: Sie war gefangen - Ela tinha sido capturada
+bewirkt habe -- Causado: Sie hat alles bewirkt habe - Ela tinha causado tudo
+Schurke -- Vilão: Er war ein Schurke - Ele era um vilão.
+kichriger -- Risonho: Sie ist kichriger geworden - Ela tinha ficado risonha
+berichten -- Relatar: Sie musste alles berichten - Ela tinha que relatar tudo
+Gefängnis -- Prisão: Er wurde ins Gefängnis gebracht - Ele foi levado para a prisão.
+Gedächtnis -- Memória: Sie hatte ein gutes Gedächtnis - Ela tinha uma boa memória.
+Wirbel -- Vértebra: Er hatte eine Wirbel verrenkt - Ele tinha deslocado uma vértebra.
+Bildschirm -- Tela: Sie schaute auf dem Bildschirm - Ela olhou para a tela
+Waisenhaus -- Orfanato: Sie wuchs im Waisenhaus auf - Ela cresceu no orfanato.
+Ausnahme -- Exceção: Es gibt eine Ausnahme - Existe uma exceção.
+Gängen -- Corredores: Sie kannte die Gängen - Ela conhecia os corredores
+reif -- Madura: Die Früchte sind reif - As frutas estão maduras.
+Bedingungen -- Condições: Sie konnte unter diese Bedingungen zustimmen - Ela não conseguia aprovar sobre essas condições
+mir ist eben ein Licht aufgegangen -- Tive uma ideia: mir ist eben ein Licht aufgegangen das könnte es sein - Acabei de ter uma ideia isso podia ser
+ohrenbetäubender -- Ensurdecedor: Es war ohrenbetäubender Laut - Era ensurdecedor
+Begleitung -- Companhia: Sie brauchte Begleitung - Ela precisava de companhia
+mit der Sprache herauszurücken -- Se pronuncie: Sie sollte endlich mit der Sprache herauszurücken - Ela deveria finalmente se pronunciar
+erledigt -- Terminado: Es ist alles erledigt - Está tudo terminado
+Entlassung -- Demissão: Sie brauchte einen Entlassung Zettel - Ela precisava de um papel de demissão
+Schulräte -- Conselho escolar: Sie ist die Schulräte - Ela é o conselho escolar
+erpressen -- Chantagear: Sie hat ihn erpressen wollen - Ela queria chantagear ele
+feststellen -- Constatar: Sie musste es feststellen - Ela tinha que constatar isso
+füttern -- Alimentar: Sie muss die Tiere füttern - Ela tem que alimentar os animais.
+kratzen -- Arranhar: Die Katze würde sie kratzen - O gato iria arranhar ela
+lästig -- Irritante: Sie war so lästig - Ela era tão irritante
+beurlaubt -- Licenciado: Er wurde beurlaubt - Ele foi licenciado
+bereitwillig -- Voluntariamente: Sie hat sich bereitwillig gemeldet - Ela se reportou voluntariamente
+dicht -- Densa: Der Nebel war dicht - A névoa estava densa.
+erspähen -- Espiar: Sie versuchte ihn zu erspähen - Ela tentou espionar ele
+Mahnung -- Advertência: Es gab keine Mahnung - Não tinha advertência
+Pfad -- Caminho: Der Pfad war eng - O caminho era estreito.
+Rumpeln -- Estrondo: Sie konnte ein Rumpeln hören - Ela podia ouvir um estrondo
+verhedderte -- Emaranhado: Es war total verhedderte - Estava total emaranhado
+Krallen -- Garras: Sie hatte lange Krallen - Ela tinha garras compridas
+Wesens -- Ser: Was für ein Wesens war das - Que tipo de ser era aquilo
+Senke -- Depressão: Es ist in eine Senke - Está em uma depressão
+Greifzangen -- Garras: Sie brauchte Greifzangen - Ela precisava de garras
+rempelte -- Derrubar: Sie rempelte die um - Ela derrubou elas
+Äste -- Galhos: Die Äste waren dick - Os galhos eram grossos.
+lärmerfüllten -- Barulhento: Die Straße war lärmerfüllten - A rua estava barulhenta
+nach einer Weile -- Após um tempo: nach einer Weile kamen sie an - Após um tempo eles chegaram
+Korb -- Cesto: Sie trug einen Korb - Ela carregava um cesto
+unschuldig -- Inocente: Sie war unschuldig - Ela era inocente
+päppeln -- Criar: Sie muss das Baby päppeln - Ela tem que criar o bebê
+zu allem Überfluss -- Para piorar: zu allem Überfluss fing es an zu regnen - para piorar, começou a chover
+Fleißig -- Diligente: Sie war sehr Fleißig - Ela era muito diligente.
+Kaninchen -- Coelho: Sie hatte ein Kaninchen - Ela tinha um coelho.
+Pantoffeln -- Chinelos: Sie trug Pantoffeln - Ela usava chinelos.
+Prüfungen bestehen -- Passar nos testes: Sie musste ihre Prüfungen bestehen - Ela teve que passar nos testes dela
+verhält -- Comportar: Sie muss sich richtig verhält - Ela tem que se comportar corretamente
+unbehaglichen -- Desagradável: Es hatte eine unbehaglichen Gefühl - Teve um sentimento desagradável
+gnädig -- Graciosamente: Sie sollte mit ihnen gnädig sein - Ela deveria ser graciosamente com eles
+den Faden aufgenommen -- Pegou o fio: Sie hat endlich den Faden aufgenommen - Ela finalmente pegou o fio
+zerknülltes -- Amassado: Sie fand ein zerknülltes Papier - Ela achou um papel amassado
+Schlangen -- Cobras: Sie war voller Schlangen - Estava cheio de cobras
+Krähen des Hahns -- Galos cantando: Sie hörte das Krähen des Hahns - Ela ouviu galos cantando
+Rohre -- Tubos: Die Rohre waren undicht - Os tubos vazavam.
+Rohrleitungen -- Tubulação: Sie hatte keine Rohrleitungen - Ela não tinha tubulação
+Entdeckung -- Descoberta: Das war eine große Entdeckung - Essa foi uma grande descoberta.
+entführt -- Sequestrado: Sie wurde entführt - Ela foi sequestrada
+bin eingedöst -- Cochilei: Sie ist bin eingedöst - Ela tinha cochilado
+Ihnen niemand in die Quere kommt -- Ficar no caminho: Sie wollte Ihnen niemand in die Quere kommt - Ela não queria ficar no caminho
+Dringender -- Urgente: Es war Dringender - Era urgente
+bedauert -- Arrependido: Sie bedauert es - Ela tinha se arrependido
+Stellenbeschreibung -- Descrição de trabalho: Sie sollte ihre Stellenbeschreibung lesen - Ela deveria ler sua descrição de trabalho
+irreführen -- Enganar: Sie wollte sie irreführen - Ela queria enganar elas
+Dorf -- Vila: Das war ein kleines Dorf - Era uma pequena vila.
+gerettet -- Salva: Sie hat es gerettet - Ela tinha salvado isso
+Ruhm für das eingeheimst -- Tomar o credito: Sie Ruhm für das eingeheimst - Ela tinha tomado o credito
+aufspüren -- Rastrear: Sie brauchte sie aufspüren - Ela precisava rastrear ela
+Schinderei -- Trabalho escravo: Das ist reinste Schinderei - Isso é o trabalho escravo
+Geheimnisse ausplaudert -- Vazando segredos: Sie ist Geheimnisse ausplaudert - Ela está vazando segredos
+mit vorgehaltenem Zauberstab -- Segurando uma varinha: Sie wurde mit vorgehaltenem Zauberstab - Ela foi segurando a varinha
+leuchteten -- Iluminado: Ihr Augen leuchteten - Os olhos dela tinham iluminado
+schmeichelhafte -- Lisonjeiro: Sie wurde schmeichelhafte - Ela foi lisonjeiro
+verriegelt -- Trancado: Es war verriegelt - Estava trancado
+Schabernack zu treiben -- Fazer travessura: Sie wollten nur Schabernack zu treiben - Eles queriam só fazer travessura
+Wasserhähne -- Torneiras: Sie hat die Wasserhähne gesehen - Ela tinha visto as torneiras
+Hahn -- Galo: Der Hahn war kaputt - A torneira tinha quebrado
+aufdrehen -- Abrir: Sie musste es aufdrehen - Ela tinha que abrir
+breit -- Largo: Sie hatte ein breit Gesicht - Ela tinha um rosto largo
+Entschluss -- Decisão: Sie ist mit diesem Entschluss fest - Ela está firme com essa decisão
+gab ihm einen Stoß -- Deu um empurrão: Sie gab ihm einen Stoß - Ela deu um empurrão nele
+schlitterte -- Escorregar: Sie schlitterte aus - Ela escorregou pra fora
+Grab -- Tumba: Sie lag in einem Grab - Ela estava deitada em uma tumba
+Umriss -- Contorno: Sie konnte nur den Umriss erkennen - Ela só pode reconhecer o contorno
+leuchtend -- Iluminado: Es war leuchtend - Era iluminado
+Risse -- Rachaduras: Da waren Risse - Tinham rachaduras
+Biegung -- Curva: Das war in der Biegung - Isso estava na curva
+eingemeißelt -- Esculpida: Das war eingemeißelt - Isso tinha sido esculpido
+räusperte sich -- Limpar a garganta: Sie räusperte sich - Ela limpou a garganta
+Säulen -- Colunas: Die Säulen waren riesig - As colunas eram enormes.
+Dringlicheres -- Mais urgente: Es war etwas Dringlicheres - Era algo mais urgente
+jämmerlichen -- Lamentável: Das war jämmerlichen - Isso era lamentável
+lauschen -- Escutar: Sie versuchte zu lauschen - Ela tentou escutar
+einzuflößen -- Infundir: Sie versuchte es einzuflößen - Ela tentou infundir
+überredete -- Persuadido: Sie hatte ihn überredete - Ela tinha persuadido ele
+aufzubewahren -- Manter: Sie muss es aufzubewahren - Ela tem que manter isso
+unheimliche -- Assustador: Es ist unheimliche - É assustador
+zerlumpte -- Esfarrapadas: Sie waren zerlumpte - Elas eram esfarrapadas
+Verteidiger -- Defensores: Sie brauchte die Verteidiger - Ela precisava dos defensores
+kamen -- Chegou: Dann kamen die - Então chegou eles
+Fügung -- Intervenção: Es war nur eine Fügung - Foi só uma intervenção
+tastenden -- Tentando: Sie war tastenden - Ela estava tentando
+abgelenkt -- Distrair: Sie abgelenkt ihn - Ela distraiu ele
+Qual -- Angustia: Sie hatte die ganze Qual ertragen - Ela teve que suportar toda a angústia
+schauriges -- Assustador: Sie sah schauriges aus - Ela olhou assustador
+spürte -- Sentido: Sie spürte ein - Ela sentiu
+das Gaumendach -- Céu da boca: Sie konnte es auf das Gaumendach schmecken - Ela podia sentir gosto disso no céu da boca
+schwebend -- Flutuando: Es war schwebend - Estava flutuando
+zuschlugen -- Batida: Sie hörte ein zuschlugen - Ela ouviu uma batida
+Leichtigkeit -- Facilidade: Sie machte es mit Leichtigkeit - Ela fez com facilidade
+Glubschaugen -- Olhos arregalados: Sie machte Glubschaugen - Ela fez olhos arregalados
+verknallt -- Apaixonada: Sie war verknallt in ihn - Ela estava apaixonada por ele
+strahlenden -- Radiante: Sie lächelte mit ihren strahlenden Augen - Ela sorriu com seus olhos radiantes
+Überbleibsel -- Restos: Sie war die Überbleibsel davon - Ela era os restos daquilo
+Verwandlungen -- Transformações: Sie konnte Verwandlungen - Ela podia fazer transformações
+Schaden -- Estrago: Es wurde grosser Schaden angerichtet - Estava causando um estrago muito grande
+erlitten -- Sofrido: Sie hatten sehr viel erlitten - Eles tinham sofrido muito
+Begabungen -- Habilidades: Sie konnte neue Begabungen - Ela podia ganhar novas habilidades
+humpelte -- Mancar: Sie musste sich humpelte - Ela teve que se mancar
+gedroht -- Ameaçado: Sie hatte ihr gedroht - Ela tinha ameaçado ela
+gestrichen -- Cancelado: Es wurde gestrichen - Foi cancelado
+Aufsatz -- Redação: Sie muss ein Aufsatz schreiben - Ela tem que escrever uma redação
+Erörtern -- Analisar: Sie hat viel zu Erörtern - Ela tinha muito para analisar
+versprechenden -- Promissor: Das war sehr versprechenden - Isso era muito promissor
+Einstellung -- Atitude: Sie hatte eine falsche Einstellung - Ela tinha uma atitude errada
+Verbitterung -- Amargura: Sie sprach mit ihrer Verbitterung - Ela falou com sua amargura
+Spucke -- Cuspe: Sie hat es mit Spucke versucht - Ela tentou com cuspe
+begriffen -- Compreender: Sie muss es begriffen - Ela tem que compreender isso
+Weckers -- Alarme: Der Weckers ging - O alarme tocou
+widerborstig -- Rebelde: Sie war widerborstig - Ela era rebelde
+verstrubbelt -- Desgrenhado: Sie hatte verstrubbelt Haare - Ela tinha cabelos desgrenhados
+umgekommen -- Falecido: Sie war umgekommen - Ela tinha falecido
+Ungetüm -- Monstro: Es war ein Ungetüm - Isso é um monstro
+Kreisel -- Giroscópio: Es war ein Kreisel - Era um giroscópio
+Plunder -- Lixo: Sie kramte ihren Plunder raus - Ela pegou seu lixo
+spannende -- Excitante: Das war sehr spannende - Aquilo era muito excitante
+umgeschrieben -- Reescrevendo: Sie hatte es umgeschrieben - Ela tinha reescrito
+Ledertäschchen -- Bolsa de couro: Sie gab ihm ein Ledertäschchen - Ela deu pra ele uma bolsa de couro
+klemmte -- Beliscar: Sie klemmte sie fest - Ela beliscou ela forte
+bestimmten -- Determinado: Die hat ein bestimmten weg eingeschlagen - Ela tinha um caminho determinado traçado
+Vormund -- Guardião: Sie ist ihre Vormund - Ela é o guardião
+strubbeliges Haar -- Cabelo bagunçado: Sie hatte strubbeliges Haar - Ela tinha cabelo bagunçado
+Landwirtschafts -- Agricultura: Sie hatte ein Job in der Landwirtschafts - Ela tinha um trabalho na agricultura
+Aufknüpfen -- Enforcamento: Sie redete von Aufknüpfen - Ela estava falando sobre enforcamento
+Pfote -- Pata: Der Hund hatte eine Pfote auf ihr Bein - O cachorro tinha uma pata na perna dela
+Fliege -- Gravata: Er hat eine Fliege - Ele tem uma gravata
+vertragen -- Tolerar: Sie kann es nicht vertragen - Ela não pode tolerar isso
+Abmachung -- Acordo: Sie hatte ein Abmachung mit ihm - Ela tinha um acordo com ele
+tückisch -- Traiçoeiro: Sie war tückisch - Ela era traiçoeiro
+Beherrschung -- Controle: Sie hatte es nicht unter Beherrschung - Ela não tinha sob controle
+Schulverweis -- Expulsão: Sie drohte mit einem Schulverweis - Ela ameaçou com uma expulsão
+Schmaus -- Banquete: Sie bereiteten einen Schmaus vor - Eles estavam preparando um banquete
+kroch -- Rastejar: Sie kroch unter der Tisch - Ela rastejou debaixo da mesa
+verhaften -- Prender: Sie kann dich verhaften - Ela pode prender você
+Schaffner -- Condutor: Sie kannte den Schaffner - Ela conhecia o condutor
+Nottransporter -- Transporte de emergência: Sie brauchte ein Nottransporter - Ela precisava de um transporte de emergência
+schüttete -- Derramou: Sie schüttete es aus - Ela derramou pra fora
+Knipszange -- Alicate: Sie hatte die Knipszange mitgebracht - Ela trouxe o alicate

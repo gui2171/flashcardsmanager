@@ -1,0 +1,87 @@
+List 1 contains 1886 entries.
+List 2 contains 1524 entries.
+Starting manual review of list2.txt.
+Reviewing: befohlen -- ordenar, to order (Der General befehlet die Truppen.)
+Deleted: befohlen -- ordenar, to order (Der General befehlet die Truppen.)
+Reviewing: Grimasse -- careta, grimace (Er verzog das Gesicht zu einer Grimasse.)
+Reviewing: abhackt -- cortada, hack off (Er hackt das Holz.)
+Reviewing: Samtvorhänge -- cortinas de veludo, velvet curtains (Die Samtvorhänge hingen schwer im Raum.)
+Reviewing: besudeln -- manchar, to soil (Er besudelte sein Hemd mit Farbe.)
+Reviewing: elende -- miseravel, miserable (Das war ein elender Tag.)
+Reviewing: beschwerst -- reclamar, to complain (Du beschwerst dich schon wieder.)
+Deleted: beschwerst -- reclamar, to complain (Du beschwerst dich schon wieder.)
+Reviewing: Eintopf -- cozido, stew (Heute gibt es Eintopf zum Mittagessen.)
+Reviewing: Eisenkrug -- caneca de ferro, iron mug (Er trank aus einem Eisenkrug.)
+Reviewing: Verantwortungsgefühl -- senso de responsabilidade, sense of responsibility (Er hat ein starkes Verantwortungsgefühl.)
+Reviewing: gähnend -- bocejar, yawning (Er saß gähnend im Meeting.)
+Reviewing: machte Anstalten -- preparou, to make preparations (Er machte Anstalten zu gehen.)
+Reviewing: Er hat sie vermasselt -- Ele estragou tudo, He screwed it up (Er hat sie vermasselt im Finale.)
+Reviewing: bezeugen -- testemunhar, to testify (Sie können seine Aussage bezeugen.)
+Reviewing: vorhat -- planejar, to plan (Was hat er vor?)
+Reviewing: beharrt -- insistir, to persist (Er beharrt auf seiner Meinung.)
+Reviewing: aufzumachen -- abrir, to open (Er hat die Tür aufzumachen.)
+Reviewing: berichtet -- relatar, to report (Die Zeitung berichtet über den Vorfall.)
+Reviewing: eingesperrter -- preso, imprisoned (Er ist ein eingesperrter Verbrecher)
+Reviewing: Absichten -- intenções, intentions (Seine Absichten sind nicht klar.)
+Reviewing: heimlich -- secretamente, secretly (Er beobachtete sie heimlich.)
+Manual review stopped by user.
+Manual review of list2.txt completed.
+List 1 contains 1886 entries.
+List 2 contains 1522 entries.
+Starting manual review of list2.txt from index 0.
+Reviewing: Grimasse -- careta, grimace (Er verzog das Gesicht zu einer Grimasse.)
+Reviewing: abhackt -- cortada, hack off (Er hackt das Holz.)
+Reviewing: Samtvorhänge -- cortinas de veludo, velvet curtains (Die Samtvorhänge hingen schwer im Raum.)
+Reviewing: besudeln -- manchar, to soil (Er besudelte sein Hemd mit Farbe.)
+Manual review of list2.txt stopped at index 3.
+Manual review of list2.txt completed.
+Starting manual review of list2.txt from index 0.
+Reviewing: Grimasse -- careta, grimace (Er verzog das Gesicht zu einer Grimasse.)
+Starting manual review of list2.txt from index 0.
+Reviewing: Grimasse -- careta, grimace (Er verzog das Gesicht zu einer Grimasse.)
+Reviewing: abhackt -- cortada, hack off (Er hackt das Holz.)
+Reviewing: Samtvorhänge -- cortinas de veludo, velvet curtains (Die Samtvorhänge hingen schwer im Raum.)
+Reviewing: besudeln -- manchar, to soil (Er besudelte sein Hemd mit Farbe.)
+Manual review of list2.txt stopped at index 3.
+Manual review of list2.txt completed.
+Starting manual review of list2.txt from index 1522.
+Manual review of list2.txt completed.
+Starting manual review of list2.txt from index 0.
+Reviewing: Grimasse -- careta, grimace (Er verzog das Gesicht zu einer Grimasse.)
+Reviewing: abhackt -- cortada, hack off (Er hackt das Holz.)
+Reviewing: Samtvorhänge -- cortinas de veludo, velvet curtains (Die Samtvorhänge hingen schwer im Raum.)
+Reviewing: besudeln -- manchar, to soil (Er besudelte sein Hemd mit Farbe.)
+Manual review of list2.txt stopped at index 3.
+Manual review of list2.txt completed.
+Starting manual review of list2.txt from index 3.
+Reviewing: besudeln -- manchar, to soil (Er besudelte sein Hemd mit Farbe.)
+Manual review of list2.txt stopped at index 3.
+Manual review of list2.txt completed.
+Starting manual review of list2.txt from index 3.
+Reviewing: besudeln -- manchar, to soil (Er besudelte sein Hemd mit Farbe.)
+Reviewing: elende -- miseravel, miserable (Das war ein elender Tag.)
+Reviewing: Eintopf -- cozido, stew (Heute gibt es Eintopf zum Mittagessen.)
+Reviewing: Eisenkrug -- caneca de ferro, iron mug (Er trank aus einem Eisenkrug.)
+Reviewing: Verantwortungsgefühl -- senso de responsabilidade, sense of responsibility (Er hat ein starkes Verantwortungsgefühl.)
+Reviewing: gähnend -- bocejar, yawning (Er saß gähnend im Meeting.)
+Reviewing: machte Anstalten -- preparou, to make preparations (Er machte Anstalten zu gehen.)
+Reviewing: Er hat sie vermasselt -- Ele estragou tudo, He screwed it up (Er hat sie vermasselt im Finale.)
+Reviewing: bezeugen -- testemunhar, to testify (Sie können seine Aussage bezeugen.)
+Reviewing: vorhat -- planejar, to plan (Was hat er vor?)
+Reviewing: beharrt -- insistir, to persist (Er beharrt auf seiner Meinung.)
+Reviewing: aufzumachen -- abrir, to open (Er hat die Tür aufzumachen.)
+Reviewing: berichtet -- relatar, to report (Die Zeitung berichtet über den Vorfall.)
+Reviewing: eingesperrter -- preso, imprisoned (Er ist ein eingesperrter Verbrecher)
+Reviewing: Absichten -- intenções, intentions (Seine Absichten sind nicht klar.)
+Reviewing: heimlich -- secretamente, secretly (Er beobachtete sie heimlich.)
+Reviewing: fürnehme -- nobre, noble (Sie hat eine fürnehme Haltung.)
+Reviewing: klammes Bett -- cama fria e úmida, cold and damp bed (Das war ein klammes Bett.)
+Reviewing: verriegelte -- trancado, locked (Die Tür war verriegelt)
+Reviewing: Wirksameres -- mais eficaz, more effective (Es gibt kein Wirksameres Mittel)
+Reviewing: Genuss -- prazer, enjoyment (Er hat den Genuss des Essens sehr genossen.)
+Reviewing: Tuch -- pano, cloth (Er putzte die Brille mit einem Tuch.)
+Reviewing: abgelöst -- substituido, replaced (Die alte Lampe wurde durch eine neue abgelöst.)
+Reviewing: sprühen -- borrifar, to spray (Er sprühte die Blumen mit Wasser.)
+Reviewing: Versandhandel -- vendas por correspondência, mail order business (Er hat einen Versandhandel.)
+Manual review of list2.txt stopped at index 27.
+Manual review of list2.txt completed.
